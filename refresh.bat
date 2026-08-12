@@ -18,6 +18,14 @@ if errorlevel 1 goto failed
 python build_site.py
 if errorlevel 1 goto failed
 
+REM Push to GitHub for Pages deployment
+git add data/jobs.json site/ docs/
+git diff --cached --quiet
+if errorlevel 1 (
+  git commit -m "Update: %date:~0,10% - auto refresh"
+  git push origin main
+)
+
 if /i "%2"=="noopen" goto done
 start "" "%~dp0site\index.html"
 
