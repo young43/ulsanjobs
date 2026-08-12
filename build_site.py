@@ -22,6 +22,7 @@ if hasattr(sys.stdout, "buffer"):
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data", "jobs.json")
 SITE = os.path.join(HERE, "site")
+DOCS = os.path.join(HERE, "docs")
 
 # 고용형태 -> 배지 색 클래스
 BADGE = {
@@ -527,24 +528,25 @@ const BADGE = {badge_js};
 </script>
 <script>{JS}</script>"""
 
-    os.makedirs(SITE, exist_ok=True)
-
     # 아티팩트 발행용(본문만)
     art = f"<title>울산 공공기관 채용 모아보기</title>\n<style>{CSS}</style>\n{body}"
-    with open(os.path.join(SITE, "artifact.html"), "w", encoding="utf-8") as f:
-        f.write(art)
 
     # 로컬에서 바로 여는 완성본
     full = ("<!doctype html>\n<html lang=\"ko\">\n<head>\n<meta charset=\"utf-8\">\n"
             "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
             "<title>울산 공공기관 채용 모아보기</title>\n"
             f"<style>{CSS}</style>\n</head>\n<body>\n{body}\n</body>\n</html>")
-    with open(os.path.join(SITE, "index.html"), "w", encoding="utf-8") as f:
-        f.write(full)
+
+    for out_dir in (SITE, DOCS):
+        os.makedirs(out_dir, exist_ok=True)
+        with open(os.path.join(out_dir, "artifact.html"), "w", encoding="utf-8") as f:
+            f.write(art)
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(full)
 
     print(f"생성 완료  ({len(jobs)}건)")
     print("  ", os.path.join(SITE, "index.html"))
-    print("  ", os.path.join(SITE, "artifact.html"))
+    print("  ", os.path.join(DOCS, "index.html"), "(GitHub Pages)")
 
 
 if __name__ == "__main__":
