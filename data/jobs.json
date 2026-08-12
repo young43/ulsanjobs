@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12 10:54",
+ "generated_at": "2026-08-12 13:32",
  "days": 60,
  "cutoff": "2026-06-13",
  "count": 1031,
@@ -194,6 +194,38 @@
    "is_target": true
   },
   {
+   "id": "use2249:20260812124225296",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260812124225296",
+   "title": "월평초등학교 특별운영직군(경비원) 채용 재공고",
+   "org": "월평초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-12",
+   "deadline": "2026-08-18",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "hibrain:3593946",
+   "source": "하이브레인넷",
+   "source_kind": "대학·연구기관",
+   "url": "https://www.hibrain.net/recruitment/categories/ARAGP/categories/A16/recruits/3593946",
+   "title": "울산광역시남구도시관리공단 비상임이사 모집",
+   "org": "울산광역시남구도시관리공단",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-08-12",
+   "deadline": "2026-08-26",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260812083513594",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -224,6 +256,22 @@
    "deadline": "",
    "status": "",
    "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "use2249:20260812115251969",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260812115251969",
+   "title": "미포초등학교 특별운영직군(경비원) 채용 공고",
+   "org": "미포초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-12",
+   "deadline": "2026-08-21",
+   "status": "",
+   "employment": "기타",
    "is_target": false
   },
   {
@@ -289,6 +337,22 @@
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
+  },
+  {
+   "id": "use2249:20260812132848744",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260812132848744",
+   "title": "2026학년도 서사유치원 교육공무직 대체인력 채용 공고(방과후전담사 8시간 일반)",
+   "org": "서사유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "방과후강사(관련)",
+   "posted": "2026-08-12",
+   "deadline": "2026-08-19",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
   },
   {
    "id": "use2249:20260812102054836",
@@ -386,22 +450,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "hibrain:3593835",
-   "source": "하이브레인넷",
-   "source_kind": "대학·연구기관",
-   "url": "https://www.hibrain.net/recruitment/categories/ARAGP/categories/A16/recruits/3593835",
-   "title": "울산대학교 초빙교수 모집 (3차)",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-11",
-   "deadline": "2026-08-11",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
   },
   {
    "id": "cleaneye:2008000007-000008-2026",
@@ -1013,7 +1061,7 @@
    "category": "",
    "posted": "2026-08-11",
    "deadline": "2026-08-12",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -3321,7 +3369,7 @@
    "category": "",
    "posted": "2026-08-05",
    "deadline": "2026-08-12",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -7742,10 +7790,10 @@
    "org": "울산과학대학교",
    "org_type": "대학·연구기관",
    "location": "울산",
-   "category": "접수중",
+   "category": "접수마감",
    "posted": "2026-07-22",
    "deadline": "2026-08-12",
-   "status": "접수중",
+   "status": "접수마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -7774,10 +7822,10 @@
    "org": "울산과학대학교",
    "org_type": "대학·연구기관",
    "location": "울산",
-   "category": "접수중",
+   "category": "접수마감",
    "posted": "2026-07-22",
    "deadline": "2026-08-12",
-   "status": "접수중",
+   "status": "접수마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -15299,22 +15347,6 @@
    "is_target": false
   },
   {
-   "id": "use2249:20260624085643344",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260624085643344",
-   "title": "2026학년도 삼일초병설유치원 여름방학 중 특수방과후과정 계약제교원(시간강사) 채용 공고(...",
-   "org": "삼일초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-06-24",
-   "deadline": "2026-06-29",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "use2249:20260624150015593",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -15328,22 +15360,6 @@
    "deadline": "2026-07-03",
    "status": "",
    "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "use2249:20260624112755928",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260624112755928",
-   "title": "2026학년도 돌봄교실 특기적성프로그램 개인위탁 강사채용 공고",
-   "org": "태화초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-06-24",
-   "deadline": "2025-07-01",
-   "status": "",
-   "employment": "교원·강사·연구직",
    "is_target": false
   },
   {
@@ -15686,22 +15702,6 @@
    "status": "",
    "employment": "기타",
    "is_target": false
-  },
-  {
-   "id": "use2249:20260623170702994",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260623170702994",
-   "title": "(2차) 2026학년도 신정초등학교병설유치원 여름방학 중 한시적 근로자 채용 공고",
-   "org": "신정초등학교병설유치원",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-06-23",
-   "deadline": "2026-06-30",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "alio:301916",
