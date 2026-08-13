@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-13 21:57",
+ "generated_at": "2026-08-13 23:22",
  "days": 60,
  "cutoff": "2026-06-14",
- "count": 959,
+ "count": 962,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 95,
-   "kept": 95,
+   "fetched": 98,
+   "kept": 98,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -206,6 +206,54 @@
    "deadline": "2026-08-19",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "alio:303892",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=303892",
+   "title": "한국석유공사 2026년 하반기 직원(정규직) 채용 공고(8급 고졸수준)",
+   "org": "한국석유공사",
+   "org_type": "공공기관",
+   "location": "울산 외 6",
+   "category": "정규직",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-28",
+   "status": "진행중",
+   "employment": "정규직",
+   "is_target": false
+  },
+  {
+   "id": "alio:303891",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=303891",
+   "title": "한국석유공사 2026년 하반기 직원(정규직) 채용 공고(7급 초대졸수준)",
+   "org": "한국석유공사",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "정규직",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-28",
+   "status": "진행중",
+   "employment": "정규직",
+   "is_target": false
+  },
+  {
+   "id": "alio:303890",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=303890",
+   "title": "한국석유공사 2026년 하반기 직원(정규직) 채용 공고(6급 대졸수준)",
+   "org": "한국석유공사",
+   "org_type": "공공기관",
+   "location": "울산 외 6",
+   "category": "정규직",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-28",
+   "status": "진행중",
+   "employment": "정규직",
    "is_target": false
   },
   {
