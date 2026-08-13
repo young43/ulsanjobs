@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14 07:39",
+ "generated_at": "2026-08-14 08:38",
  "days": 60,
  "cutoff": "2026-06-15",
  "count": 1018,
@@ -224,6 +224,22 @@
    "status": "진행중",
    "employment": "정규직",
    "is_target": false
+  },
+  {
+   "id": "use2249:20260814082008387",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260814082008387",
+   "title": "메아리학교 기간제교원 채용 공고",
+   "org": "메아리학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-08-14",
+   "deadline": "2025-08-21",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "alio:303798",
@@ -14877,22 +14893,6 @@
    "posted": "2026-06-26",
    "deadline": "2026-07-10",
    "status": "마감",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "use2249:20260626090954815",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260626090954815",
-   "title": "2026학년도 유치원 특수 방과후과정 계약제 교원(시간강사) 채용",
-   "org": "언양누리유치원",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기간제교원(보결)",
-   "posted": "2026-06-26",
-   "deadline": "2026-06-26",
-   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
