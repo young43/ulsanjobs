@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-13 15:16",
+ "generated_at": "2026-08-13 17:19",
  "days": 60,
  "cutoff": "2026-06-14",
- "count": 705,
+ "count": 707,
  "sources": [
   {
    "source": "잡알리오",
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 250,
-   "kept": 236,
+   "kept": 238,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -193,6 +193,22 @@
    "is_target": true
   },
   {
+   "id": "use2249:20260813155555025",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260813155555025",
+   "title": "현대고등학교 조리실무사 채용 재 공고 (4차)",
+   "org": "현대고등힉교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-19",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260813084138059",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -223,6 +239,22 @@
    "status": "",
    "employment": "기타",
    "is_target": false
+  },
+  {
+   "id": "useonline:2617",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2617",
+   "title": "수암초 기간제교사(초등 담임) 채용 공고(2차)",
+   "org": "수암초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 남구",
+   "category": "기간제교사",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-18",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "use2249:20260813092551632",
@@ -257,6 +289,22 @@
    "is_target": true
   },
   {
+   "id": "use2249:20260813162836986",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260813162836986",
+   "title": "무룡초등학교 교육공무직(조리실무사) 대체인력 채용 공고",
+   "org": "무룡초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-20",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20260813092459552",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -287,6 +335,22 @@
    "status": "",
    "employment": "기타",
    "is_target": false
+  },
+  {
+   "id": "useonline:2616",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2616",
+   "title": "2026학년도 천상중학교 기간제 교원(과학) 3차 채용 공고(지구과학, 물리, 생물, 화학, 공통과학 지원 가능)",
+   "org": "천상중학교",
+   "org_type": "교육청·학교",
+   "location": "울산 울주군",
+   "category": "기간제교사",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-18",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "useonline:2613",
@@ -335,6 +399,22 @@
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
+  },
+  {
+   "id": "use2249:20260813162225943",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260813162225943",
+   "title": "2026학년도 2학기 지구과학(통합과학)기간제교사 5차 채용 공고",
+   "org": "세종고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-08-13",
+   "deadline": "2026-08-19",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "use2249:20260812124225296",
@@ -10698,54 +10778,6 @@
    "status": "",
    "employment": "기타",
    "is_target": false
-  },
-  {
-   "id": "use2249:20260625163320218",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260625163320218",
-   "title": "2026학년도 여름방학중 특수교육지원 자원봉사자 위촉 공고",
-   "org": "상북유치원",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-06-25",
-   "deadline": "2026-07-02",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "use2249:20260625142240246",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260625142240246",
-   "title": "2026학년도 구영중학교 방과후학교 개인위탁강사 모집 공고(수학, 역사(한국사))",
-   "org": "구영중학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "방과후강사(관련)",
-   "posted": "2026-06-25",
-   "deadline": "2026-07-30",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "use2249:20260625170230206",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260625170230206",
-   "title": "2026. 동천초등학교병설유치원 여름방학 중 한시적 기간제 근로자 2차 채용 공고",
-   "org": "동천초등학교 병설유치원",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-06-25",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "uou:울산대학교 차세대수소추진선박실증연구센터 박사후연구원 채용|2026-06-24",
