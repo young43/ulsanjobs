@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-15 11:13",
+ "generated_at": "2026-08-15 12:36",
  "days": 60,
  "cutoff": "2026-06-16",
- "count": 960,
+ "count": 945,
  "sources": [
   {
    "source": "잡알리오",
@@ -118,11 +118,11 @@
   },
   {
    "source": "울산과학대학교",
-   "fetched": 30,
-   "kept": 15,
+   "fetched": 0,
+   "kept": 0,
    "dropped_result_notice": 0,
-   "note": "채용공고",
-   "error": ""
+   "note": "",
+   "error": "ChunkedEncodingError: ('Connection broken: IncompleteRead(8106 bytes read, 2134 more expected)', IncompleteRead(8106 bytes read, 2134 more exp"
   },
   {
    "source": "울산대학교",
@@ -4659,38 +4659,6 @@
    "is_target": true
   },
   {
-   "id": "uc:56522",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56522",
-   "title": "[울산과학대학교] 대학일자리플러스센터 사업연구원(계약직) 채용 재공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-08-03",
-   "deadline": "2026-08-14",
-   "status": "접수마감",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "uc:56531",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56531",
-   "title": "[산학협력단] 산학기획팀 단기 계약직 채용 재공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-08-03",
-   "deadline": "2026-08-07",
-   "status": "접수마감",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "alio:303404",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -7795,54 +7763,6 @@
    "is_target": false
   },
   {
-   "id": "uc:56370",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56370",
-   "title": "[산학협력단] 전문대학혁신지원사업 사업연구원 채용 재공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-22",
-   "deadline": "2026-08-12",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "uc:56368",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56368",
-   "title": "[산학협력단] 산학기획팀 단기 계약직 채용 공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-22",
-   "deadline": "2026-07-28",
-   "status": "접수마감",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "uc:56369",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56369",
-   "title": "[산학협력단] AID 전환 중점 전문대학 지원사업 연구원 채용 재공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-22",
-   "deadline": "2026-08-12",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "use2249:20260722115715571",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -8545,22 +8465,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "uc:56328",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56328",
-   "title": "[산학협력단] 앵커사업 사업 연구원 채용 공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-20",
-   "deadline": "2026-07-27",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
   },
   {
    "id": "use2249:20260720144659943",
@@ -10356,38 +10260,6 @@
    "is_target": true
   },
   {
-   "id": "uc:56281",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56281",
-   "title": "[산학협력단] 앵커사업(지역성장 인재양성체계) 선임(사업)연구원 채용 공고(수정)",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-13",
-   "deadline": "2026-07-22",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "uc:56279",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56279",
-   "title": "[산학협력단] 국제협력선도대학육성지원사업단 연구원 채용 재공고(수정)",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-13",
-   "deadline": "2026-07-22",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "use2249:20260713142949551",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -10674,38 +10546,6 @@
    "status": "",
    "employment": "공무직",
    "is_target": true
-  },
-  {
-   "id": "uc:56248",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56248",
-   "title": "[산학협력단] 종합환경분석센터 전담직원 채용 재공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-10",
-   "deadline": "2026-07-17",
-   "status": "접수마감",
-   "employment": "정규직",
-   "is_target": false
-  },
-  {
-   "id": "uc:56235",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56235",
-   "title": "[산학협력단] 울산북구어린이·사회복지급식관리지원센터 직원(팀원) 채용 공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-10",
-   "deadline": "2026-07-17",
-   "status": "접수마감",
-   "employment": "정규직",
-   "is_target": false
   },
   {
    "id": "unist:306287",
@@ -11460,22 +11300,6 @@
    "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "uc:56203",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=2&mode=view&mgr_seq=135&board_seq=56203",
-   "title": "[울산과학대학교] 평생교육원 골프학습장 직원 신규 채용 공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-08",
-   "deadline": "2026-07-31",
-   "status": "접수마감",
-   "employment": "정규직",
-   "is_target": false
   },
   {
    "id": "use2249:20260708105732351",
@@ -12807,22 +12631,6 @@
    "is_target": true
   },
   {
-   "id": "uc:56144",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=2&mode=view&mgr_seq=135&board_seq=56144",
-   "title": "[산학협력단] 전문대학혁신지원사업 사업연구원 채용 공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-02",
-   "deadline": "2026-07-15",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "ulsan:2026-1303",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -13221,22 +13029,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "uc:56113",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=2&mode=view&mgr_seq=135&board_seq=56113",
-   "title": "[산학협력단] AID 전환 중점 전문대학 지원사업 연구원 채용 재공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-07-01",
-   "deadline": "2026-07-15",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
   },
   {
    "id": "use2249:20260701131004753",
@@ -15256,38 +15048,6 @@
    "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "uc:55944",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=2&mode=view&mgr_seq=135&board_seq=55944",
-   "title": "[산학협력단]종합환경분석센터 전담직원 채용 수정 재공고(3명)",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-06-18",
-   "deadline": "2026-07-01",
-   "status": "접수마감",
-   "employment": "정규직",
-   "is_target": false
-  },
-  {
-   "id": "uc:55960",
-   "source": "울산과학대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=2&mode=view&mgr_seq=135&board_seq=55960",
-   "title": "[산학협력단] 국제협력선도대학육성지원사업단 연구원 채용 공고",
-   "org": "울산과학대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "접수마감",
-   "posted": "2026-06-18",
-   "deadline": "2026-07-01",
-   "status": "접수마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
   },
   {
    "id": "useonline:2383",
