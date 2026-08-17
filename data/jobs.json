@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17 09:52",
+ "generated_at": "2026-08-17 11:20",
  "days": 60,
  "cutoff": "2026-06-18",
  "count": 1001,
@@ -206,6 +206,22 @@
    "category": "",
    "posted": "2026-08-18",
    "deadline": "2026-08-24",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20260817104512445",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260817104512445",
+   "title": "2026 동평중학교 스포츠강사(축구) 채용 공고",
+   "org": "동평중학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-08-17",
+   "deadline": "2026-08-17",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -14812,22 +14828,6 @@
    "category": "강사",
    "posted": "2026-06-29",
    "deadline": "2026-07-02",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "use2249:20260629091454092",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260629091454092",
-   "title": "2026학년도 울산중학교 학교보건 보조강사 채용 공고",
-   "org": "울산중학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-06-29",
-   "deadline": "2026-07-03",
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
