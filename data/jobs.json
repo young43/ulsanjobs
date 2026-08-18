@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-18 11:17",
+ "generated_at": "2026-08-18 12:43",
  "days": 60,
  "cutoff": "2026-06-19",
- "count": 706,
+ "count": 707,
  "sources": [
   {
    "source": "잡알리오",
@@ -119,7 +119,7 @@
   {
    "source": "울산과학대학교",
    "fetched": 30,
-   "kept": 13,
+   "kept": 14,
    "dropped_result_notice": 0,
    "note": "채용공고",
    "error": ""
@@ -156,6 +156,22 @@
    "posted": "2026-09-01",
    "deadline": "2026-07-31",
    "status": "마감",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "uc:56792",
+   "source": "울산과학대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56792",
+   "title": "[산학협력단] 글로벌전문기술인재양성사업 연구원 채용 재공고",
+   "org": "울산과학대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "접수예정",
+   "posted": "2026-08-24",
+   "deadline": "2026-09-07",
+   "status": "접수예정",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -225,6 +241,22 @@
    "is_target": false
   },
   {
+   "id": "use2249:20260818120743163",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260818120743163",
+   "title": "신정초등학교 조리실무사 대체인력 채용 공고",
+   "org": "신정초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-18",
+   "deadline": "2026-08-25",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "useonline:2629",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -288,6 +320,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "use2249:20260818115917932",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260818115917932",
+   "title": "강동유치원 특별운영직군(경비원)채용 공고 (3차공고)",
+   "org": "강동유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-18",
+   "deadline": "2026-08-24",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "useonline:2626",
@@ -8204,7 +8252,7 @@
    "id": "uc:56235",
    "source": "울산과학대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=1&mode=view&mgr_seq=135&board_seq=56235",
+   "url": "https://www.uc.ac.kr/www/CMS/Board/Board.do?mCode=MN099&page=2&mode=view&mgr_seq=135&board_seq=56235",
    "title": "[산학협력단] 울산북구어린이·사회복지급식관리지원센터 직원(팀원) 채용 공고",
    "org": "울산과학대학교",
    "org_type": "대학·연구기관",
@@ -10844,22 +10892,6 @@
    "is_target": true
   },
   {
-   "id": "use2249:20260629132410849",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260629132410849",
-   "title": "방기초등학교 경비원(특별운영직군) 채용 공고",
-   "org": "방기초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-06-29",
-   "deadline": "2026-07-06",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "useonline:2410",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -10885,22 +10917,6 @@
    "org_type": "교육청·학교",
    "location": "울산 동구",
    "category": "강사",
-   "posted": "2026-06-29",
-   "deadline": "2026-07-02",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "use2249:20260629132349914",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260629132349914",
-   "title": "2026학년도 삼일초병설유치원 여름방학 중 특수방과후과정 계약제교원(시간강사) 채용 공고(...",
-   "org": "삼일초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
    "posted": "2026-06-29",
    "deadline": "2026-07-02",
    "status": "",
