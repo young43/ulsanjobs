@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-18 17:32",
+ "generated_at": "2026-08-18 18:28",
  "days": 60,
  "cutoff": "2026-06-19",
- "count": 1004,
+ "count": 1005,
  "sources": [
   {
    "source": "잡알리오",
@@ -22,8 +22,8 @@
   },
   {
    "source": "클린아이 잡플러스",
-   "fetched": 68,
-   "kept": 64,
+   "fetched": 69,
+   "kept": 65,
    "dropped_result_notice": 4,
    "note": "지방공기업·출자출연",
    "error": ""
@@ -158,6 +158,23 @@
    "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
+  },
+  {
+   "id": "cleaneye:2007100294-000103-2026",
+   "source": "클린아이 잡플러스",
+   "source_kind": "지방공기업·출자출연기관",
+   "url": "https://job.cleaneye.go.kr/search.do?kwd=2026%EB%85%84%EB%8F%84%20%EC%9A%B8%EC%82%B0%EC%8B%9C%EC%84%A4%EA%B3%B5%EB%8B%A8%20%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90%20%EC%B2%AD%EC%86%8C%20%EA%B8%B0%EA%B0%84%EC%A0%9C%EA%B7%BC%EB%A1%9C%EC%9E%90%20%EC%B6%94%EA%B0%80%20%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0",
+   "link_is_board": true,
+   "title": "2026년도 울산시설공단 울산대공원 청소 기간제근로자 추가 채용공고",
+   "org": "울산시설공단",
+   "org_type": "지방공공기관",
+   "location": "울산광역시",
+   "category": "",
+   "posted": "2026-08-24",
+   "deadline": "2026-08-31",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "cleaneye:2007100294-000102-2026",
@@ -565,10 +582,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5772",
+   "id": "chunhae:5773",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5772&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODcmbGV0dGVyX25vPTU3NzQmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5773&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODcmbGV0dGVyX25vPTU3NzYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(간호학과)(~8/25)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1064,10 +1081,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5770",
+   "id": "chunhae:5771",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5770&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NzkmbGV0dGVyX25vPTU3NzQmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5771&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NzkmbGV0dGVyX25vPTU3NzYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[산학협력단] 앵커사업단 연구원 채용(~8/20)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1080,10 +1097,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5771",
+   "id": "chunhae:5772",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5771&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODUmbGV0dGVyX25vPTU3NzQmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5772&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODUmbGV0dGVyX25vPTU3NzYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 직원(전기안전관리자) 채용 공고(~8/19)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2955,10 +2972,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5763",
+   "id": "chunhae:5764",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5763&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NjMmbGV0dGVyX25vPTU3NzQmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5764&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NjMmbGV0dGVyX25vPTU3NzYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 직원(간호학부) 채용 공고(~8/18)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -4550,10 +4567,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5761",
+   "id": "chunhae:5762",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5761&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NDQmbGV0dGVyX25vPTU3NzQmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5762&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NDQmbGV0dGVyX25vPTU3NzYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[교무처] 2026학년도 2학기 교수 채용 공고(~8.19(수)까지)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -5373,10 +5390,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5757",
+   "id": "chunhae:5758",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5757&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0MTYmbGV0dGVyX25vPTU3NzQmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5758&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0MTYmbGV0dGVyX25vPTU3NzYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[교무처] 2027학년도 물리치료학과(수업연한 4년제) 진급학생 선발 공고",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
