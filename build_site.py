@@ -288,6 +288,7 @@ input[type="search"]:focus-visible, select:focus-visible,
   .job { grid-template-columns: 1fr; }
   .when { grid-column: 1; grid-row: auto; text-align: left; flex-direction: row; align-items: center; gap: 10px; }
   .count { margin-left: 0; width: 100%; }
+  .filters { position: static; top: auto; z-index: auto; }
 }
 
 @media (prefers-reduced-motion: reduce) {
