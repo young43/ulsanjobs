@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-20 15:37",
+ "generated_at": "2026-08-20 16:40",
  "days": 60,
  "cutoff": "2026-06-21",
- "count": 711,
+ "count": 715,
  "sources": [
   {
    "source": "잡알리오",
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 260,
-   "kept": 243,
+   "kept": 247,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -240,6 +240,70 @@
    "is_target": false
   },
   {
+   "id": "useonline:2650",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2650",
+   "title": "삼신초 기간제교원(학급담임) 채용 공고",
+   "org": "삼신초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 남구",
+   "category": "기간제교사",
+   "posted": "2026-08-20",
+   "deadline": "2026-08-23",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20260820163415054",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260820163415054",
+   "title": "삼신초 기간제교원(6학년 학급담임) 채용 공고",
+   "org": "삼신초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-08-20",
+   "deadline": "2026-08-20",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2647",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2647",
+   "title": "삼남중학교 교육공무직(조리실무사) 대체인력 채용 공고",
+   "org": "삼남중학교",
+   "org_type": "교육청·학교",
+   "location": "울산 울주군",
+   "category": "교육공무직 대체인력",
+   "posted": "2026-08-20",
+   "deadline": "2026-08-27",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2648",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2648",
+   "title": "남목고 공통과학(물리, 화학, 생명과학, 지구과학) 시간강사 채용 공고",
+   "org": "남목고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 동구",
+   "category": "강사",
+   "posted": "2026-08-20",
+   "deadline": "2026-08-24",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "useonline:2646",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -270,6 +334,22 @@
    "status": "",
    "employment": "기타",
    "is_target": false
+  },
+  {
+   "id": "useonline:2649",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2649",
+   "title": "2026학년도 울산행복학교 특수(초등) 기간제교원 채용 공고",
+   "org": "울산행복학교",
+   "org_type": "교육청·학교",
+   "location": "울산 울주군",
+   "category": "기간제교사",
+   "posted": "2026-08-20",
+   "deadline": "2026-08-26",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "use2249:20260820112410638",
@@ -318,6 +398,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "use2249:20260820162436424",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260820162436424",
+   "title": "2026학년도 남목고등학교 공통과학(생명과학, 물리, 지구과학, 화학) 시간강사 채용 공고",
+   "org": "남목고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-20",
+   "deadline": "2026-08-21",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "useonline:2643",
@@ -544,10 +640,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5777",
+   "id": "chunhae:5778",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5777&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM1MDAmbGV0dGVyX25vPTU3Nzgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5778&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM1MDAmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 실습조교 채용 공고(응급구조과)(~8/26)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -931,10 +1027,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5773",
+   "id": "chunhae:5774",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5773&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODcmbGV0dGVyX25vPTU3Nzgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5774&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODcmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(간호학과)(~8/25)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1348,10 +1444,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5772",
+   "id": "chunhae:5773",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5772&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NzkmbGV0dGVyX25vPTU3Nzgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5773&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0NzkmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[산학협력단] 앵커사업단 연구원 채용(~8/20)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -4252,10 +4348,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5762",
+   "id": "chunhae:5763",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5762&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0MTYmbGV0dGVyX25vPTU3Nzgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5763&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0MTYmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[교무처] 2027학년도 물리치료학과(수업연한 4년제) 진급학생 선발 공고",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -4978,10 +5074,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5759",
+   "id": "chunhae:5760",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5759&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTMzMjQmbGV0dGVyX25vPTU3Nzgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5760&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTMzMjQmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[늘돌봄지원센터] 2026년 울산늘봄누리센터 강사 양성 교육과정 연수생 모집 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -10955,38 +11051,6 @@
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
-  },
-  {
-   "id": "use2249:20260701103823690",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260701103823690",
-   "title": "2026학년도 옥산초등학교 특수교육 자원봉사자 모집 공고",
-   "org": "옥산초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-07-01",
-   "deadline": "2026-07-03",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "use2249:20260701094547418",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260701094547418",
-   "title": "2026학년도 약사가온유치원 여름방학 중 방과후과정 한시적기간제근로자 채용 공고 (5차)",
-   "org": "약사가온유치원",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-07-01",
-   "deadline": "2026-07-01",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "useonline:2422",
