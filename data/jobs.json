@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-08-21 09:55",
+ "generated_at": "2026-08-21 11:23",
  "days": 60,
  "cutoff": "2026-06-22",
- "count": 949,
+ "count": 951,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 106,
-   "kept": 106,
+   "fetched": 107,
+   "kept": 107,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -47,7 +47,7 @@
   {
    "source": "울산 중구",
    "fetched": 255,
-   "kept": 139,
+   "kept": 140,
    "dropped_result_notice": 7,
    "note": "채용공고",
    "error": ""
@@ -177,6 +177,22 @@
    "is_target": true
   },
   {
+   "id": "alio:304098",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=304098",
+   "title": "한전KPS(주)울산사업소 전기부 단기노무원 모집(1차)",
+   "org": "한전KPS(주)",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "비정규직",
+   "posted": "2026-08-21",
+   "deadline": "2026-08-25",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20260821085553740",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -272,6 +288,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "junggu:725218",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=725218",
+   "title": "2026년 제3회 울산광역시중구의회 임기제공무원(의정홍보) 임용..",
+   "org": "울산 중구 의회사무국",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-08-21",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
   },
   {
    "id": "use2249:20260820112811635",
@@ -498,6 +530,22 @@
    "is_target": false
   },
   {
+   "id": "useonline:2645",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2645",
+   "title": "[영어 채용 완료] 2026학년도 2학기 울산동천고등학교 시간강사 채용 공고(영어, 미술, 수학)",
+   "org": "울산동천고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 북구",
+   "category": "강사",
+   "posted": "2026-08-20",
+   "deadline": "2026-09-20",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "alio:304091",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -669,22 +717,6 @@
    "category": "방과후강사(관련)",
    "posted": "2026-08-20",
    "deadline": "2026-08-20",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "useonline:2645",
-   "source": "울산교육청 온라인채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2645",
-   "title": "2026학년도 2학기 울산동천고등학교 시간강사 채용 공고(영어, 미술, 수학)",
-   "org": "울산동천고등학교",
-   "org_type": "교육청·학교",
-   "location": "울산 북구",
-   "category": "강사",
-   "posted": "2026-08-20",
-   "deadline": "2026-09-20",
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
@@ -898,10 +930,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5778",
+   "id": "chunhae:5779",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5778&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM1MDAmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5779&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM1MDAmbGV0dGVyX25vPTU3ODEmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 실습조교 채용 공고(응급구조과)(~8/26)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1430,10 +1462,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5775",
+   "id": "chunhae:5776",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5775&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODcmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5776&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODcmbGV0dGVyX25vPTU3ODEmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(간호학과)(~8/25)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -5789,10 +5821,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5766",
+   "id": "chunhae:5767",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5766&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0MTYmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5767&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0MTYmbGV0dGVyX25vPTU3ODEmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[교무처] 2027학년도 물리치료학과(수업연한 4년제) 진급학생 선발 공고",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -6820,10 +6852,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5763",
+   "id": "chunhae:5764",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5763&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTMzMjQmbGV0dGVyX25vPTU3Nzkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5764&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTMzMjQmbGV0dGVyX25vPTU3ODEmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[늘돌봄지원센터] 2026년 울산늘봄누리센터 강사 양성 교육과정 연수생 모집 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -7611,7 +7643,7 @@
    "id": "junggu:724541",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
-   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=724541",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=724541",
    "title": "2026년 8월 불법투기 쓰레기 민원 접수 기간제근로자 채용 공..",
    "org": "울산 중구 환경미화과",
    "org_type": "지자체",
@@ -12641,7 +12673,7 @@
    "id": "junggu:723697",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
-   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=723697",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=723697",
    "title": "2026년 하반기 척척 중구기동대 기간제근로자 2차 추가 채용 ..",
    "org": "울산 중구 자치행정과",
    "org_type": "지자체",
@@ -15057,7 +15089,7 @@
    "id": "junggu:723165",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
-   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=723165",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=5&dataSid=723165",
    "title": "중구도시관리공단 2026년 제3회 직원 공개채용 공고",
    "org": "울산 중구 기획예산실",
    "org_type": "지자체",
