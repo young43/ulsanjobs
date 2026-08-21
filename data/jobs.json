@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-21 21:36",
+ "generated_at": "2026-08-21 22:44",
  "days": 60,
  "cutoff": "2026-06-22",
- "count": 1009,
+ "count": 1015,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,11 +54,11 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "fetched": 10,
+   "kept": 6,
+   "dropped_result_notice": 4,
+   "note": "새올 채용공고(링크는 게시판)",
+   "error": ""
   },
   {
    "source": "울산 동구",
@@ -560,6 +560,23 @@
    "category": "기간제교사",
    "posted": "2026-08-21",
    "deadline": "2026-08-24",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54233",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 친환경자동차 업무 보조 기간제근로자 채용계획 공고",
+   "org": "울산 남구 환경관리과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-21",
+   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -2444,6 +2461,23 @@
    "is_target": true
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54180",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 공고(2026년 4분기...",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-13",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
    "id": "gojobs:300989",
    "source": "나라일터",
    "source_kind": "국가·지자체·공공기관",
@@ -2799,6 +2833,23 @@
    "is_target": false
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54155",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "신정3동 주민자치센터 프로그램(줌바댄스) 강사 모집 공고",
+   "org": "울산 남구 신정3동",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-12",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260812115251969",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -3038,6 +3089,40 @@
    "deadline": "2026-08-26",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54164",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 재공고(2026년 3분...",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-11",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54147",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 공고(2026년 4분기...",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-11",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
    "is_target": false
   },
   {
@@ -4121,6 +4206,23 @@
    "status": "",
    "employment": "공무직",
    "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54129",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 보건소장(개방형직위) 채용계획 공고",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-07",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
   },
   {
    "id": "use2249:20260807203801624",
