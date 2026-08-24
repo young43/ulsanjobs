@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-25 07:21",
+ "generated_at": "2026-08-25 08:19",
  "days": 60,
  "cutoff": "2026-06-26",
- "count": 937,
+ "count": 938,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,8 +54,8 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 9,
-   "kept": 6,
+   "fetched": 10,
+   "kept": 7,
    "dropped_result_notice": 1,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
@@ -174,6 +174,23 @@
    "status": "진행중",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54256",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 보건소장(개방형직위) 재공고",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-25",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
   },
   {
    "id": "uou:RISE(앵커)사업단 연구원 채용|2026-08-25",
