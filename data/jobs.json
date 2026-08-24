@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-24 18:42",
+ "generated_at": "2026-08-24 19:34",
  "days": 60,
  "cutoff": "2026-06-25",
- "count": 942,
+ "count": 947,
  "sources": [
   {
    "source": "잡알리오",
@@ -110,11 +110,11 @@
   },
   {
    "source": "춘해보건대학교",
-   "fetched": 0,
-   "kept": 0,
+   "fetched": 40,
+   "kept": 40,
    "dropped_result_notice": 0,
-   "note": "",
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.ch.ac.kr', port=443): Max retries exceeded with url: /board/board.php?site_id=main&TREE_NO"
+   "note": "공지사항 중 채용글",
+   "error": ""
   },
   {
    "source": "울산과학대학교",
@@ -403,6 +403,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "chunhae:5786",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5786&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM1MjUmbGV0dGVyX25vPTU3ODYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[학생처] 2026년도 (재)광산장학회 장학생 선발 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-08-24",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "use2249:20260824144922056",
@@ -998,6 +1014,22 @@
    "posted": "2026-08-21",
    "deadline": "2026-09-08",
    "status": "접수중",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "chunhae:5784",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5784&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM1MjImbGV0dGVyX25vPTU3ODYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[기획처] 조교 채용 공고[학생처(생활관))(~8/28)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-08-21",
+   "deadline": "2026-08-28",
+   "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1691,6 +1723,22 @@
    "is_target": false
   },
   {
+   "id": "chunhae:5780",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5780&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM1MDAmbGV0dGVyX25vPTU3ODYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[기획처] 실습조교 채용 공고(응급구조과)(~8/26)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-08-19",
+   "deadline": "2026-08-26",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "useonline:2637",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -2205,6 +2253,22 @@
    "status": "진행중",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "chunhae:5777",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5777&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0ODcmbGV0dGVyX25vPTU3ODYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[기획처] 조교 채용 공고(간호학과)(~8/25)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-08-18",
+   "deadline": "2026-08-25",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "unist:306763",
@@ -6463,6 +6527,22 @@
    "status": "마감",
    "employment": "무기계약직",
    "is_target": true
+  },
+  {
+   "id": "chunhae:5769",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5769&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM0MTYmbGV0dGVyX25vPTU3ODYmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[교무처] 2027학년도 물리치료학과(수업연한 4년제) 진급학생 선발 공고",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-08-03",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "use2249:20260803160922888",
