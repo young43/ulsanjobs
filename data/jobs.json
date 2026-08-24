@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-24 11:24",
+ "generated_at": "2026-08-24 12:51",
  "days": 60,
  "cutoff": "2026-06-25",
- "count": 984,
+ "count": 985,
  "sources": [
   {
    "source": "잡알리오",
@@ -23,7 +23,7 @@
   {
    "source": "클린아이 잡플러스",
    "fetched": 64,
-   "kept": 59,
+   "kept": 60,
    "dropped_result_notice": 4,
    "note": "지방공기업·출자출연",
    "error": ""
@@ -324,6 +324,22 @@
    "is_target": true
   },
   {
+   "id": "use2249:20260824120143653",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260824120143653",
+   "title": "2026학년도 배움터지킴이 자원봉사자 위촉 공고(범서초등학교)",
+   "org": "범서초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-08-24",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "cleaneye:2007100294-000103-2026",
    "source": "클린아이 잡플러스",
    "source_kind": "지방공기업·출자출연기관",
@@ -369,6 +385,22 @@
    "category": "울산광역시 울주군 공고 제2026-2194호",
    "posted": "2026-08-24",
    "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20260824114220208",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260824114220208",
+   "title": "2026. 9.16.자 약수초 기간제제교원(초등담임교사) 채용",
+   "org": "약수초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-08-24",
+   "deadline": "2026-08-28",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -12158,6 +12190,23 @@
    "is_target": true
   },
   {
+   "id": "cleaneye:2009000003-000010-2026",
+   "source": "클린아이 잡플러스",
+   "source_kind": "지방공기업·출자출연기관",
+   "url": "https://job.cleaneye.go.kr/search.do?kwd=%EC%9A%B8%EC%A3%BC%EA%B5%B0%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%B5%EB%8B%A8%202026%EB%85%84%20%EC%A0%9C5%ED%9A%8C%20%EC%8B%A4%EB%B2%84%EC%A7%81%20%EB%AA%A8%EC%A7%91%20%EA%B3%B5%EA%B3%A0",
+   "link_is_board": true,
+   "title": "울주군시설관리공단 2026년 제5회 실버직 모집 공고",
+   "org": "울주군시설관리공단",
+   "org_type": "지방공공기관",
+   "location": "울산광역시 울주군",
+   "category": "",
+   "posted": "2026-07-13",
+   "deadline": "2026-07-20",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "useonline:2466",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -14777,22 +14826,6 @@
    "is_target": true
   },
   {
-   "id": "use2249:20260702083550502",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260702083550502",
-   "title": "학교특색 맞춤형 예술교육(미술) 외부 강사 채용 공고",
-   "org": "연암초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-07-02",
-   "deadline": "2026-07-08",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "use2249:20260702111611617",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -15127,22 +15160,6 @@
    "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "use2249:20260701172346240",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260701172346240",
-   "title": "울산학생창의누리관 시설관리인력 채용 공고",
-   "org": "미래교육과(울산학생창의누리관)",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-07-01",
-   "deadline": "2026-07-09",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "junggu:723495",
