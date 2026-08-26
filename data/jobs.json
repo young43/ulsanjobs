@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-26 23:41",
+ "generated_at": "2026-08-27 01:17",
  "days": 60,
- "cutoff": "2026-06-27",
- "count": 1006,
+ "cutoff": "2026-06-28",
+ "count": 1012,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,24 +54,24 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "fetched": 8,
+   "kept": 5,
+   "dropped_result_notice": 1,
+   "note": "새올 채용공고(링크는 게시판)",
+   "error": ""
   },
   {
    "source": "울산 동구",
-   "fetched": 4,
+   "fetched": 3,
    "kept": 0,
-   "dropped_result_notice": 4,
+   "dropped_result_notice": 3,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
   {
    "source": "울산 북구",
-   "fetched": 1,
-   "kept": 1,
+   "fetched": 2,
+   "kept": 2,
    "dropped_result_notice": 0,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
@@ -172,6 +172,23 @@
    "category": "",
    "posted": "2026-08-31",
    "deadline": "2026-09-04",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.bukgu.ulsan.kr:44837",
+   "source": "울산 북구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
+   "link_is_board": true,
+   "title": "2026년 불법 옥외광고물 정비 기간제근로자 채용",
+   "org": "울산 북구 건축주택과",
+   "org_type": "지자체",
+   "location": "울산 북구",
+   "category": "",
+   "posted": "2026-08-27",
+   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -643,6 +660,23 @@
    "is_target": false
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54256",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 보건소장(개방형직위) 재공고",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-25",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
    "id": "alio:304232",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -671,7 +705,7 @@
    "category": "",
    "posted": "2026-08-25",
    "deadline": "2026-09-01",
-   "status": "D-6",
+   "status": "D-5",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -800,7 +834,7 @@
    "category": "",
    "posted": "2026-08-25",
    "deadline": "2026-09-03",
-   "status": "D-8",
+   "status": "D-7",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1009,7 +1043,7 @@
    "category": "",
    "posted": "2026-08-24",
    "deadline": "2026-09-17",
-   "status": "D-22",
+   "status": "D-21",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1139,7 +1173,7 @@
    "category": "",
    "posted": "2026-08-24",
    "deadline": "2026-08-31",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1366,6 +1400,23 @@
    "category": "",
    "posted": "2026-08-24",
    "deadline": "2026-08-31",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54250",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 울산광역시 남구보건소 국가예방접종관리 기간제근로자 채용 최종합...",
+   "org": "울산 남구 건강행복과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-24",
+   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -1853,6 +1904,23 @@
    "is_target": true
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54233",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 친환경자동차 업무 보조 기간제근로자 채용계획 공고",
+   "org": "울산 남구 환경관리과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-21",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "junggu:725218",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
@@ -2328,7 +2396,7 @@
    "category": "청년인턴(채용형)",
    "posted": "2026-08-19",
    "deadline": "2026-08-26",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2697,7 +2765,7 @@
    "category": "",
    "posted": "2026-08-18",
    "deadline": "2026-08-28",
-   "status": "D-2",
+   "status": "D-1",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2778,7 +2846,7 @@
    "category": "",
    "posted": "2026-08-18",
    "deadline": "2026-08-27",
-   "status": "D-1",
+   "status": "D-DAY",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -3374,7 +3442,7 @@
    "category": "",
    "posted": "2026-08-14",
    "deadline": "2026-08-27",
-   "status": "D-1",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -3665,6 +3733,23 @@
    "status": "",
    "employment": "공무직",
    "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54180",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 공고(2026년 4분기...",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-13",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
   },
   {
    "id": "gojobs:300989",
@@ -3985,6 +4070,23 @@
    "deadline": "2026-08-19",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54155",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "신정3동 주민자치센터 프로그램(줌바댄스) 강사 모집 공고",
+   "org": "울산 남구 신정3동",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-08-12",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
    "is_target": false
   },
   {
@@ -8692,7 +8794,7 @@
    "category": "",
    "posted": "2026-07-29",
    "deadline": "2026-08-28",
-   "status": "D-2",
+   "status": "D-1",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -10367,7 +10469,7 @@
    "category": "",
    "posted": "2026-07-23",
    "deadline": "2026-08-27",
-   "status": "D-1",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
