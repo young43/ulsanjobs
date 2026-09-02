@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-02 14:23",
+ "generated_at": "2026-09-02 19:23",
  "days": 60,
  "cutoff": "2026-07-04",
- "count": 702,
+ "count": 705,
  "sources": [
   {
    "source": "잡알리오",
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 260,
-   "kept": 247,
+   "kept": 250,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -143,6 +143,23 @@
  ],
  "jobs": [
   {
+   "id": "uou:아산스포츠센터 스포츠외래강사 채용|2026-09-03",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "아산스포츠센터 스포츠외래강사 채용",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-03",
+   "deadline": "2026-09-10",
+   "status": "D-8",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "uou:울산대학교 글로컬대학추진단 기술창업지원센터 기술창업지원팀 계약직원 채용 |2026-09-02",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -156,6 +173,38 @@
    "posted": "2026-09-02",
    "deadline": "2026-09-16",
    "status": "D-14",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2689",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2689",
+   "title": "범서초등학교 기간제교원 채용 공고(2학년 담임교사)",
+   "org": "범서초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 중구",
+   "category": "기간제교사",
+   "posted": "2026-09-02",
+   "deadline": "2026-09-05",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20260902163703117",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260902163703117",
+   "title": "두서초등학교 2학기 특수교사 채용 공고",
+   "org": "두서초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-09-02",
+   "deadline": "2026-09-08",
+   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -192,6 +241,22 @@
    "is_target": false
   },
   {
+   "id": "use2249:20260902163717373",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260902163717373",
+   "title": "2026학년도 태화중학교 기간제교워 채용 공고(보건)",
+   "org": "태화중학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-09-02",
+   "deadline": "2026-09-07",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20260902111605006",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -221,6 +286,22 @@
    "deadline": "2026-09-04",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "useonline:2690",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2690",
+   "title": "2026학년도 신선여자고등학교 시간 강사(국어) 채용 공고",
+   "org": "신선여자고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 남구",
+   "category": "강사",
+   "posted": "2026-09-02",
+   "deadline": "2026-09-05",
+   "status": "",
+   "employment": "교원·강사·연구직",
    "is_target": false
   },
   {
@@ -269,6 +350,22 @@
    "deadline": "2026-09-02",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "useonline:2688",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2688",
+   "title": "2026 하반기 이주배경(다문화) 학생 학력향상 프로그램 강사 채용 공고",
+   "org": "남목중학교",
+   "org_type": "교육청·학교",
+   "location": "울산 동구",
+   "category": "기타",
+   "posted": "2026-09-02",
+   "deadline": "2026-09-06",
+   "status": "",
+   "employment": "교원·강사·연구직",
    "is_target": false
   },
   {
@@ -4203,23 +4300,6 @@
    "deadline": "2026-08-18",
    "status": "",
    "employment": "공무직",
-   "is_target": true
-  },
-  {
-   "id": "uou:아산스포츠센터 계약직(안내직) 채용|2026-08-10",
-   "source": "울산대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://recruit.ulsan.ac.kr/",
-   "link_is_board": true,
-   "title": "아산스포츠센터 계약직(안내직) 채용",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-10",
-   "deadline": "2026-08-20",
-   "status": "마감",
-   "employment": "기간제·계약직",
    "is_target": true
   },
   {
@@ -11160,38 +11240,6 @@
    "category": "기간제교원(보결)",
    "posted": "2026-07-08",
    "deadline": "2026-07-14",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "use2249:20260708080142053",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260708080142053",
-   "title": "2026학년도 염포초등학교병설유치원 여름방학 중 한시적 기간제 근로자 채용 공고",
-   "org": "염포초등학교병설유치원",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-07-08",
-   "deadline": "2026-07-15",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "use2249:20260708085150742",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260708085150742",
-   "title": "2026학년도 남외중학교 기간제교사(가정) 채용 계획 및 공고",
-   "org": "남외중학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기간제교원(보결)",
-   "posted": "2026-07-08",
-   "deadline": "2026-07-12",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
