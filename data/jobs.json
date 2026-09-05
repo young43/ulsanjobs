@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-06 01:29",
+ "generated_at": "2026-09-06 03:46",
  "days": 60,
  "cutoff": "2026-07-08",
- "count": 936,
+ "count": 937,
  "sources": [
   {
    "source": "잡알리오",
@@ -86,11 +86,11 @@
   },
   {
    "source": "울산교육청 교육공무직",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
+   "fetched": 20,
+   "kept": 1,
+   "dropped_result_notice": 3,
    "note": "",
-   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "error": ""
   },
   {
    "source": "울산교육청 일반채용",
@@ -1712,6 +1712,22 @@
    "status": "",
    "employment": "기타",
    "is_target": false
+  },
+  {
+   "id": "use1918:20260831144028233",
+   "source": "울산교육청 교육공무직",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1918&q_bbsDocNo=20260831144028233",
+   "title": "2027년 교육공무직 채용시험 사전안내 및 달라지는 시험제도 안내 공고",
+   "org": "울산광역시교육청",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-08-31",
+   "deadline": "",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
   },
   {
    "id": "useonline:2683",
