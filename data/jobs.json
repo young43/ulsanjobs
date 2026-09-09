@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-09 14:43",
+ "generated_at": "2026-09-09 19:36",
  "days": 60,
  "cutoff": "2026-07-11",
- "count": 995,
+ "count": 1002,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 121,
-   "kept": 121,
+   "fetched": 123,
+   "kept": 123,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -15,14 +15,14 @@
   {
    "source": "나라일터",
    "fetched": 70,
-   "kept": 36,
+   "kept": 37,
    "dropped_result_notice": 9,
    "note": "국가·지자체·공공기관",
    "error": ""
   },
   {
    "source": "클린아이 잡플러스",
-   "fetched": 68,
+   "fetched": 67,
    "kept": 61,
    "dropped_result_notice": 6,
    "note": "지방공기업·출자출연",
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 69,
-   "kept": 38,
+   "fetched": 70,
+   "kept": 39,
    "dropped_result_notice": 29,
    "note": "고시공고",
    "error": ""
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 250,
-   "kept": 234,
+   "kept": 235,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -135,7 +135,7 @@
   {
    "source": "UNIST",
    "fetched": 60,
-   "kept": 15,
+   "kept": 17,
    "dropped_result_notice": 23,
    "note": "채용공고",
    "error": ""
@@ -327,6 +327,22 @@
    "is_target": true
   },
   {
+   "id": "useonline:2704",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2704",
+   "title": "명촌초등학교 급식실 교육공무직(조리실무사) 대체인력 채용 공고",
+   "org": "명촌초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 북구",
+   "category": "교육공무직 대체인력",
+   "posted": "2026-09-09",
+   "deadline": "2026-09-11",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20260909084324195",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -359,6 +375,38 @@
    "is_target": true
   },
   {
+   "id": "alio:304807",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=304807",
+   "title": "[근로복지연구원] 기간제(사무원) 채용 공고",
+   "org": "근로복지공단",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "비정규직",
+   "posted": "2026-09-09",
+   "deadline": "2026-09-16",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "unist:307311",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307311&article.offset=0&articleLimit=10",
+   "title": "[2026년 10차] 공과대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-09",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260909084810364",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -372,6 +420,86 @@
    "deadline": "",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "use2249:20260909160540206",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260909160540206",
+   "title": "2026학년도 남창중 수학 기간제 교사 채용 공고",
+   "org": "남창중학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-09-09",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulsan:2026-1722",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47146.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "2026년도「태화강 오픈 스크린」보조사업자 모집 공고",
+   "org": "울산광역시 문화관광체육국 문화예술과",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-09",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "gojobs:303230",
+   "source": "나라일터",
+   "source_kind": "국가·지자체·공공기관",
+   "url": "https://gojobs.go.kr/apmView.do?empmnsn=303230&menuNo=401",
+   "title": "2026년도 제6회 울산광역시 동구 지방임기제공무원 임용시험 시행계획 공고(평생교육사)",
+   "org": "울산광역시 동구",
+   "org_type": "공공기관·지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-09",
+   "deadline": "2026-09-15",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
+   "id": "alio:304810",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=304810",
+   "title": "2026년 하반기 한국가스안전공사 정규직(채용형인턴) 채용 공고",
+   "org": "한국가스안전공사",
+   "org_type": "공공기관",
+   "location": "서울 외 14",
+   "category": "청년인턴(채용형) 외 1",
+   "posted": "2026-09-09",
+   "deadline": "2026-09-28",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "unist:307324",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307324&article.offset=0&articleLimit=10",
+   "title": "2026-9차 자연과학대학 연구원 채용 공고 종료 안내",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-09",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
    "is_target": false
   },
   {
@@ -6042,7 +6170,7 @@
    "id": "unist:306763",
    "source": "UNIST",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=306763&article.offset=0&articleLimit=10",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=306763&article.offset=10&articleLimit=10",
    "title": "[2026년 9차] 정보바이오융합대학 연구원 채용 공고",
    "org": "울산과학기술원(UNIST)",
    "org_type": "대학·연구기관",
@@ -14355,7 +14483,7 @@
    "id": "unist:306367",
    "source": "UNIST",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=306367&article.offset=20&articleLimit=10",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=306367&article.offset=30&articleLimit=10",
    "title": "2026-8차 자연과학대학 연구원 채용 공고",
    "org": "울산과학기술원(UNIST)",
    "org_type": "대학·연구기관",
@@ -16022,22 +16150,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "use2249:20260713113740341",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260713113740341",
-   "title": "2026학년도 복산초등학교 여름방학 중 틈새돌봄 자원봉사자 위촉 재공고(2차)",
-   "org": "복산초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기타",
-   "posted": "2026-07-13",
-   "deadline": "2026-07-13",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "useonline:2465",
