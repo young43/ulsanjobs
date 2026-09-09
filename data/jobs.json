@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-09 07:16",
+ "generated_at": "2026-09-09 09:59",
  "days": 60,
  "cutoff": "2026-07-11",
- "count": 936,
+ "count": 940,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 120,
-   "kept": 120,
+   "fetched": 121,
+   "kept": 121,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -22,8 +22,8 @@
   },
   {
    "source": "클린아이 잡플러스",
-   "fetched": 6,
-   "kept": 6,
+   "fetched": 5,
+   "kept": 5,
    "dropped_result_notice": 0,
    "note": "지방공기업·출자출연",
    "error": ""
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 400,
-   "kept": 397,
+   "kept": 400,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -127,7 +127,7 @@
   {
    "source": "울산대학교",
    "fetched": 32,
-   "kept": 29,
+   "kept": 30,
    "dropped_result_notice": 0,
    "note": "교직원채용(링크는 시스템 첫화면)",
    "error": ""
@@ -143,23 +143,6 @@
  ],
  "jobs": [
   {
-   "id": "cleaneye:B000147-000032-2026",
-   "source": "클린아이 잡플러스",
-   "source_kind": "지방공기업·출자출연기관",
-   "url": "https://job.cleaneye.go.kr/search.do?kwd=%EC%9A%B8%EC%82%B0%EC%97%B0%EA%B5%AC%EC%9B%90%EC%9E%A5%20%EA%B3%B5%EA%B0%9C%EB%AA%A8%EC%A7%91%20%EA%B3%B5%EA%B3%A0",
-   "link_is_board": true,
-   "title": "울산연구원장 공개모집 공고",
-   "org": "재단법인 울산연구원",
-   "org_type": "지방공공기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-09",
-   "deadline": "2026-09-28",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "cleaneye:2007100370-000009-2026",
    "source": "클린아이 잡플러스",
    "source_kind": "지방공기업·출자출연기관",
@@ -172,6 +155,87 @@
    "category": "",
    "posted": "2026-09-09",
    "deadline": "2026-09-23",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "uou:울산대학교 미래모빌리티공학부 연구교원 초빙 공고|2026-09-09",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "울산대학교 미래모빌리티공학부 연구교원 초빙 공고",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-09",
+   "deadline": "2026-09-14",
+   "status": "D-5",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "use2249:20260909084035575",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260909084035575",
+   "title": "울산광역시교육청 미래교육과 교육공무직 대체인력(취업지원관) 채용 공고",
+   "org": "울산광역시교육청 미래교육과",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-09-09",
+   "deadline": "2026-09-10",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20260909084324195",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260909084324195",
+   "title": "녹수초등학교 교육공무직(늘봄교무행정실무사) 대체인력 채용 공고",
+   "org": "녹수초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-09-09",
+   "deadline": "",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
+   "id": "alio:304776",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=304776",
+   "title": "기간제근로자(대체인력) 채용공고[부산울산본부]",
+   "org": "한국전력공사",
+   "org_type": "공공기관",
+   "location": "부산 외 2",
+   "category": "비정규직",
+   "posted": "2026-09-09",
+   "deadline": "2026-09-23",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20260909084810364",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260909084810364",
+   "title": "2026학년도 태화초등학교 배움터지킴이 자원봉사자 위촉 공고",
+   "org": "태화초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-09-09",
+   "deadline": "",
    "status": "",
    "employment": "기타",
    "is_target": false
