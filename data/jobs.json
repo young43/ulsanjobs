@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-17 02:58",
+ "generated_at": "2026-09-17 05:46",
  "days": 60,
  "cutoff": "2026-07-19",
- "count": 928,
+ "count": 923,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,11 +54,11 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 10,
-   "kept": 5,
-   "dropped_result_notice": 5,
-   "note": "새올 채용공고(링크는 게시판)",
-   "error": ""
+   "fetched": 0,
+   "kept": 0,
+   "dropped_result_notice": 0,
+   "note": "",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
   },
   {
    "source": "울산 동구",
@@ -274,40 +274,6 @@
    "status": "D-24",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54483",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 공고(2026년 4분기...",
-   "org": "울산 남구 총무과",
-   "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2026-09-16",
-   "deadline": "",
-   "status": "",
-   "employment": "공무원(임기제·개방형)",
-   "is_target": false
-  },
-  {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54479",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "울산광역시 남구 보건소장(개방형직위) 재공고",
-   "org": "울산 남구 총무과",
-   "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2026-09-16",
-   "deadline": "",
-   "status": "",
-   "employment": "공무원(임기제·개방형)",
-   "is_target": false
   },
   {
    "id": "useonline:2719",
@@ -1102,23 +1068,6 @@
    "is_target": true
   },
   {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54451",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "무거동 제27통장 모집공고(2차)",
-   "org": "울산 남구 무거동",
-   "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2026-09-14",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "ulju:67599",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -1507,23 +1456,6 @@
    "is_target": false
   },
   {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54420",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "울산광역시 남구 환경공무직 채용 계획 공고",
-   "org": "울산 남구 환경자원과",
-   "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2026-09-11",
-   "deadline": "",
-   "status": "",
-   "employment": "공무직",
-   "is_target": true
-  },
-  {
    "id": "ulju:67590",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -1836,23 +1768,6 @@
    "org": "울산 중구 건강관리과",
    "org_type": "지자체",
    "location": "울산 중구",
-   "category": "",
-   "posted": "2026-09-11",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54433",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "2026년 치매정책사업 대체인력(기간제근로자) 채용 공고",
-   "org": "울산 남구 건강행복과",
-   "org_type": "지자체",
-   "location": "울산 남구",
    "category": "",
    "posted": "2026-09-11",
    "deadline": "",
