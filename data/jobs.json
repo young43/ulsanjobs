@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17 05:46",
+ "generated_at": "2026-09-17 08:30",
  "days": 60,
  "cutoff": "2026-07-19",
  "count": 923,
@@ -58,7 +58,7 @@
    "kept": 0,
    "dropped_result_notice": 0,
    "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "error": "SSLError: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Max retries exceeded with url: /emwp/gov/mogaha/ntis/web"
   },
   {
    "source": "울산 동구",
