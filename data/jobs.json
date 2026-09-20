@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-20 18:02",
+ "generated_at": "2026-09-20 22:30",
  "days": 60,
  "cutoff": "2026-07-22",
- "count": 617,
+ "count": 618,
  "sources": [
   {
    "source": "잡알리오",
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 380,
-   "kept": 362,
+   "kept": 363,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -142,6 +142,22 @@
   }
  ],
  "jobs": [
+  {
+   "id": "use2249:20260920221127756",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260920221127756",
+   "title": "옥동초 기간제(초등 담임) 채용 3차 공고",
+   "org": "옥동초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-09-20",
+   "deadline": "2026-09-20",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
   {
    "id": "use2249:20260918101351154",
    "source": "울산교육청 일반채용",
