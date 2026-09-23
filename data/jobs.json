@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-23 22:14",
+ "generated_at": "2026-09-24 03:10",
  "days": 60,
- "cutoff": "2026-07-25",
- "count": 876,
+ "cutoff": "2026-07-26",
+ "count": 875,
  "sources": [
   {
    "source": "잡알리오",
@@ -22,9 +22,9 @@
   },
   {
    "source": "클린아이 잡플러스",
-   "fetched": 11,
-   "kept": 10,
-   "dropped_result_notice": 1,
+   "fetched": 8,
+   "kept": 8,
+   "dropped_result_notice": 0,
    "note": "지방공기업·출자출연",
    "error": ""
   },
@@ -54,25 +54,25 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "fetched": 10,
+   "kept": 3,
+   "dropped_result_notice": 7,
+   "note": "새올 채용공고(링크는 게시판)",
+   "error": ""
   },
   {
    "source": "울산 동구",
-   "fetched": 8,
+   "fetched": 7,
    "kept": 4,
-   "dropped_result_notice": 4,
+   "dropped_result_notice": 3,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
   {
    "source": "울산 북구",
-   "fetched": 8,
-   "kept": 5,
-   "dropped_result_notice": 3,
+   "fetched": 5,
+   "kept": 3,
+   "dropped_result_notice": 2,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
@@ -155,7 +155,23 @@
    "category": "",
    "posted": "2026-09-28",
    "deadline": "2026-10-07",
-   "status": "D-14",
+   "status": "D-13",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulju:67711",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67711&mId=0403030100",
+   "title": "2026년 옹기아카데미관 기간제 근로자 채용 재공고",
+   "org": "울주군 관광과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2439호",
+   "posted": "2026-09-24",
+   "deadline": "",
+   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -240,6 +256,23 @@
    "is_target": false
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54567",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "삼산동 3, 10통장 모집 재공고",
+   "org": "울산 남구 삼산동",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-09-23",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "uou:비교과지원팀 계약직원(실무급) 채용|2026-09-23",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -252,7 +285,7 @@
    "category": "",
    "posted": "2026-09-23",
    "deadline": "2026-10-14",
-   "status": "D-21",
+   "status": "D-20",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -755,6 +788,23 @@
    "is_target": true
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54547",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 구립도서관 운영 기간제근로자 채용",
+   "org": "울산 남구 평생교육과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-09-22",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulsan:2026-1792",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -848,7 +898,7 @@
    "category": "",
    "posted": "2026-09-21",
    "deadline": "2026-10-06",
-   "status": "D-13",
+   "status": "D-12",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -912,22 +962,6 @@
    "category": "기간제교원(보결)",
    "posted": "2026-09-21",
    "deadline": "2026-09-28",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulju:67666",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67666&mId=0403030100",
-   "title": "두동면 환경취약지역 환경정비 기간제근로자 채용 공고",
-   "org": "울주군 두동면",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 두동면 공고 제2026-23호",
-   "posted": "2026-09-21",
-   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -1159,6 +1193,23 @@
    "is_target": true
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54525",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 가을철 및 2027년 봄철 산불감시·진화대원 모집 공고",
+   "org": "울산 남구 정원녹지과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-09-21",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260921090322489",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -1219,7 +1270,7 @@
    "category": "",
    "posted": "2026-09-18",
    "deadline": "2026-10-12",
-   "status": "D-19",
+   "status": "D-18",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1432,23 +1483,6 @@
    "is_target": true
   },
   {
-   "id": "cleaneye:2007100228-000015-2026",
-   "source": "클린아이 잡플러스",
-   "source_kind": "지방공기업·출자출연기관",
-   "url": "https://job.cleaneye.go.kr/search.do?kwd=2026%EB%85%84%20%ED%95%98%EB%B0%98%EA%B8%B0%20%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%28%EA%B3%B5%EB%AC%B4%EC%A7%81%29%20%EA%B3%B5%EA%B0%9C%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0",
-   "link_is_board": true,
-   "title": "2026년 하반기 신입사원(공무직) 공개채용 공고",
-   "org": "부산교통공사",
-   "org_type": "지방공공기관",
-   "location": "부산광역시, 울산광역시, 경상남도",
-   "category": "",
-   "posted": "2026-09-17",
-   "deadline": "2026-09-23",
-   "status": "",
-   "employment": "공무직",
-   "is_target": true
-  },
-  {
    "id": "use2249:20260917174035708",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -1575,7 +1609,7 @@
    "category": "",
    "posted": "2026-09-16",
    "deadline": "2026-10-11",
-   "status": "D-18",
+   "status": "D-17",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1653,23 +1687,6 @@
    "org": "울산 동구 공원녹지과",
    "org_type": "지자체",
    "location": "울산 동구",
-   "category": "",
-   "posted": "2026-09-16",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:44954",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "개별주택 특성조사를 위한 기간제근로자 모집 공고(외근직,내근직)",
-   "org": "울산 북구 세무1과",
-   "org_type": "지자체",
-   "location": "울산 북구",
    "category": "",
    "posted": "2026-09-16",
    "deadline": "",
@@ -1805,23 +1822,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:44968",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2026년 가을철 및 2027년 봄철 산불감시원 및 산림재난대응단(산불전...",
-   "org": "울산 북구 공원녹지과",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-09-16",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "use2249:20260916140302046",
@@ -3062,23 +3062,6 @@
    "is_target": false
   },
   {
-   "id": "cleaneye:2007100370-000009-2026",
-   "source": "클린아이 잡플러스",
-   "source_kind": "지방공기업·출자출연기관",
-   "url": "https://job.cleaneye.go.kr/search.do?kwd=%EC%9A%B8%EC%82%B0%EB%8F%84%EC%8B%9C%EA%B3%B5%EC%82%AC%20%EA%B0%90%EC%82%AC%20%EA%B3%B5%EA%B0%9C%EB%AA%A8%EC%A7%91%20%EA%B3%B5%EA%B3%A0",
-   "link_is_board": true,
-   "title": "울산도시공사 감사 공개모집 공고",
-   "org": "울산광역시도시공사",
-   "org_type": "지방공공기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-09",
-   "deadline": "2026-09-23",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "uou:울산대학교 미래모빌리티공학부 연구교원 초빙 공고|2026-09-09",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -3187,7 +3170,7 @@
    "category": "비정규직",
    "posted": "2026-09-09",
    "deadline": "2026-09-23",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
