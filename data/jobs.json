@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-24 19:54",
+ "generated_at": "2026-09-25 00:41",
  "days": 60,
- "cutoff": "2026-07-26",
+ "cutoff": "2026-07-27",
  "count": 880,
  "sources": [
   {
@@ -155,7 +155,7 @@
    "category": "",
    "posted": "2026-09-28",
    "deadline": "2026-10-07",
-   "status": "D-13",
+   "status": "D-12",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -301,7 +301,7 @@
    "category": "",
    "posted": "2026-09-23",
    "deadline": "2026-10-14",
-   "status": "D-20",
+   "status": "D-19",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -914,7 +914,7 @@
    "category": "",
    "posted": "2026-09-21",
    "deadline": "2026-10-06",
-   "status": "D-12",
+   "status": "D-11",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1286,7 +1286,7 @@
    "category": "",
    "posted": "2026-09-18",
    "deadline": "2026-10-12",
-   "status": "D-18",
+   "status": "D-17",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1673,7 +1673,7 @@
    "category": "",
    "posted": "2026-09-16",
    "deadline": "2026-10-11",
-   "status": "D-17",
+   "status": "D-16",
    "employment": "기간제·계약직",
    "is_target": true
   },
