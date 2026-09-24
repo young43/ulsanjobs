@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-24 14:45",
+ "generated_at": "2026-09-24 19:54",
  "days": 60,
  "cutoff": "2026-07-26",
- "count": 876,
+ "count": 880,
  "sources": [
   {
    "source": "잡알리오",
@@ -110,11 +110,11 @@
   },
   {
    "source": "춘해보건대학교",
-   "fetched": 0,
-   "kept": 0,
+   "fetched": 32,
+   "kept": 32,
    "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='www.ch.ac.kr', port=443): Read timed out. (read timeout=30)"
+   "note": "공지사항 중 채용글",
+   "error": ""
   },
   {
    "source": "울산과학대학교",
@@ -1433,6 +1433,54 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "chunhae:5839",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5839&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3MDgmbGV0dGVyX25vPTU4NDImb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "2026 전공관련 국제교류(방사선과, 응급구조과, 보건행정과) 연수생 모집 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-18",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "chunhae:5840",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5840&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3MDkmbGV0dGVyX25vPTU4NDImb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "2026 전공관련 국제교류(물리치료과, 치위생과, 유아교육과) 연수생 모집 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-18",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "chunhae:5838",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5838&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3MDcmbGV0dGVyX25vPTU4NDImb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "2026 전공관련 국제교류(간호학과, 안경광학과, 언어치료과) 연수생 모집 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-18",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "use2249:20260917143239735",
@@ -3027,6 +3075,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "chunhae:5831",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5831&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM2NTImbGV0dGVyX25vPTU4NDImb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[AI·DX센터] 2026-2학기 「AI 크루 & AI 근로장학생 모집공고」 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-10",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "gojobs:303280",
