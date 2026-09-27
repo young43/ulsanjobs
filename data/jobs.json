@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-27 08:20",
+ "generated_at": "2026-09-27 11:53",
  "days": 60,
  "cutoff": "2026-07-29",
- "count": 828,
+ "count": 829,
  "sources": [
   {
    "source": "잡알리오",
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 200,
-   "kept": 187,
+   "kept": 188,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -156,6 +156,22 @@
    "posted": "2026-09-28",
    "deadline": "2026-10-07",
    "status": "D-10",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2732",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2732",
+   "title": "구영초등학교 기간제 교원(초등 영어 전담) 채용 공고 2차",
+   "org": "구영초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 울주군",
+   "category": "기간제교사",
+   "posted": "2026-09-27",
+   "deadline": "2026-10-01",
+   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
