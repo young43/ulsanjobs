@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-29 06:00",
+ "generated_at": "2026-09-29 09:53",
  "days": 60,
  "cutoff": "2026-07-31",
- "count": 816,
+ "count": 818,
  "sources": [
   {
    "source": "잡알리오",
@@ -14,16 +14,16 @@
   },
   {
    "source": "나라일터",
-   "fetched": 60,
+   "fetched": 70,
    "kept": 34,
-   "dropped_result_notice": 6,
+   "dropped_result_notice": 7,
    "note": "국가·지자체·공공기관",
    "error": ""
   },
   {
    "source": "클린아이 잡플러스",
-   "fetched": 8,
-   "kept": 7,
+   "fetched": 9,
+   "kept": 8,
    "dropped_result_notice": 1,
    "note": "지방공기업·출자출연",
    "error": ""
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 72,
-   "kept": 39,
+   "fetched": 73,
+   "kept": 40,
    "dropped_result_notice": 32,
    "note": "고시공고",
    "error": ""
@@ -142,6 +142,39 @@
   }
  ],
  "jobs": [
+  {
+   "id": "ulsan:2026-1835",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47277.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "제안서 평가위원 후보자 모집공고(대곡리 반구대 암각화 정밀사진 및 초분광 데이터 구축 사업)",
+   "org": "울산광역시 문화관광체육국 문화유산과",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-29",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "cleaneye:B000629-000015-2026",
+   "source": "클린아이 잡플러스",
+   "source_kind": "지방공기업·출자출연기관",
+   "url": "https://job.cleaneye.go.kr/search.do?kwd=%28%EC%9E%AC%29%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B3%B5%EC%A7%80%EA%B0%80%EC%A1%B1%EC%A7%84%ED%9D%A5%EC%82%AC%ED%9A%8C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9B%90%202026%EB%85%84%20%EC%A0%9C2%ED%9A%8C%20%EC%A7%81%EC%9B%90%20%EC%B1%84%EC%9A%A9%20%EA%B3%B5%EA%B3%A0",
+   "link_is_board": true,
+   "title": "(재)울산광역시 복지가족진흥사회서비스원 2026년 제2회 직원 채용 공고",
+   "org": "재단법인 울산광역시 복지가족진흥사회서비스원",
+   "org_type": "지방공공기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-29",
+   "deadline": "2026-10-14",
+   "status": "",
+   "employment": "정규직",
+   "is_target": false
+  },
   {
    "id": "alio:305376",
    "source": "잡알리오",
