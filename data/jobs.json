@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-01 10:00",
+ "generated_at": "2026-10-01 15:52",
  "days": 60,
  "cutoff": "2026-08-02",
- "count": 820,
+ "count": 824,
  "sources": [
   {
    "source": "잡알리오",
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 77,
-   "kept": 41,
+   "fetched": 78,
+   "kept": 42,
    "dropped_result_notice": 32,
    "note": "고시공고",
    "error": ""
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 330,
-   "kept": 317,
+   "kept": 320,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -134,9 +134,9 @@
   },
   {
    "source": "UNIST",
-   "fetched": 50,
+   "fetched": 99,
    "kept": 17,
-   "dropped_result_notice": 20,
+   "dropped_result_notice": 30,
    "note": "채용공고",
    "error": ""
   }
@@ -157,6 +157,22 @@
    "status": "진행중",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "ulsan:2026-1866",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47315.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "재공고(하수도사업특별회계 회계감사인 선임을 위한 제안서 모집)",
+   "org": "울산광역시 환경국 하수관리과",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-01",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "uou:이차전지특성화대학사업단 계약직(실무급) 채용|2026-10-01",
@@ -241,6 +257,22 @@
    "is_target": false
   },
   {
+   "id": "use2249:20261001100146916",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261001100146916",
+   "title": "옥서초등학교 담임교사 채용공고",
+   "org": "옥서초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-10-01",
+   "deadline": "2026-10-06",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "eminwon:eminwon.donggu.ulsan.kr:28457",
    "source": "울산 동구 채용공고",
    "source_kind": "기초자치단체",
@@ -274,6 +306,23 @@
    "is_target": true
   },
   {
+   "id": "uou:글로벌인문학부 스페인어·중남미학트랙 교학조교(행정)|2026-10-01",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "글로벌인문학부 스페인어·중남미학트랙 교학조교(행정)",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-01",
+   "deadline": "2026-10-08",
+   "status": "D-7",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "ulju:67772",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -290,6 +339,39 @@
    "is_target": true
   },
   {
+   "id": "uou:[ICT융합학부 교학조교(실험)] ICT융합학부 - ICT융합학부|2026-10-01",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "[ICT융합학부 교학조교(실험)] ICT융합학부 - ICT융합학부",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-01",
+   "deadline": "2026-10-08",
+   "status": "D-7",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "use2249:20261001110918079",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261001110918079",
+   "title": "2026학년도 월평중학교 역사 기간제교원 채용",
+   "org": "월평중학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-10-01",
+   "deadline": "2026-10-01",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "useonline:2747",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -301,6 +383,22 @@
    "category": "강사",
    "posted": "2026-10-01",
    "deadline": "2026-10-06",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261001143800824",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261001143800824",
+   "title": "2026. 울산강북교육지원청 위(Wee)센터 전문상담(순회)교사 기간제교원 채용 공고(4차...",
+   "org": "울산강북교육지원청 위(Wee)센터",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-10-01",
+   "deadline": "2026-10-01",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -5880,23 +5978,6 @@
    "is_target": true
   },
   {
-   "id": "uou:산업대학원 교학조교(행정)|2026-09-01",
-   "source": "울산대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://recruit.ulsan.ac.kr/",
-   "link_is_board": true,
-   "title": "산업대학원 교학조교(행정)",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-01",
-   "deadline": "2026-09-08",
-   "status": "마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "useonline:2685",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -6327,23 +6408,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "uou:미래모빌리티공학부 교학조교(행정)|2026-08-28",
-   "source": "울산대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://recruit.ulsan.ac.kr/",
-   "link_is_board": true,
-   "title": "미래모빌리티공학부 교학조교(행정)",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-28",
-   "deadline": "2026-09-02",
-   "status": "마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
   },
   {
    "id": "use2249:20260828150219479",
@@ -9535,7 +9599,7 @@
    "id": "unist:306732",
    "source": "UNIST",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=306732&article.offset=20&articleLimit=10",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=306732&article.offset=30&articleLimit=10",
    "title": "[2026년 9차] 공과대학 연구원 채용 공고",
    "org": "울산과학기술원(UNIST)",
    "org_type": "대학·연구기관",
