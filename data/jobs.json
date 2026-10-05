@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-05 10:29",
+ "generated_at": "2026-10-05 17:03",
  "days": 60,
  "cutoff": "2026-08-06",
- "count": 763,
+ "count": 724,
  "sources": [
   {
    "source": "잡알리오",
@@ -38,11 +38,11 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 70,
-   "kept": 39,
-   "dropped_result_notice": 30,
-   "note": "고시공고",
-   "error": ""
+   "fetched": 0,
+   "kept": 0,
+   "dropped_result_notice": 0,
+   "note": "",
+   "error": "SSLError: HTTPSConnectionPool(host='www.ulsan.go.kr', port=443): Max retries exceeded with url: /u/rep/transfer/notice/list.ulsan?"
   },
   {
    "source": "울산 중구",
@@ -142,22 +142,6 @@
   }
  ],
  "jobs": [
-  {
-   "id": "ulsan:2026-1876",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47326.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자 모집 개찰 결과 공고",
-   "org": "울산광역시 건설주택국 주택허가과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-10-02",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
   {
    "id": "use2249:20261002142846409",
    "source": "울산교육청 일반채용",
@@ -498,22 +482,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-1866",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47315.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "재공고(하수도사업특별회계 회계감사인 선임을 위한 제안서 모집)",
-   "org": "울산광역시 환경국 하수관리과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-10-01",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "uou:이차전지특성화대학사업단 계약직(실무급) 채용|2026-10-01",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -529,22 +497,6 @@
    "status": "D-15",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1843",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47290.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "울산광역정신건강복지센터 운영 수탁기관 모집 공고",
-   "org": "울산광역시 복지보건국 보건의료정책과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-10-01",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "cleaneye:2008000007-000010-2026",
@@ -669,22 +621,6 @@
    "org": "울산 동구 공원녹지과",
    "org_type": "지자체",
    "location": "울산 동구",
-   "category": "",
-   "posted": "2026-10-01",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1856",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47304.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "단기 기간제근로자(상하수도 검침원) 채용 공고",
-   "org": "울산광역시 상수도사업본부 북부사업소",
-   "org_type": "지자체",
-   "location": "울산",
    "category": "",
    "posted": "2026-10-01",
    "deadline": "",
@@ -1065,38 +1001,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-183",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47289.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "차량등록사업소 민원안내 기간제근로자 채용계획 공고",
-   "org": "울산광역시 차량등록사업소",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-29",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1835",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47277.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "제안서 평가위원 후보자 모집공고(대곡리 반구대 암각화 정밀사진 및 초분광 데이터 구축 사업)",
-   "org": "울산광역시 문화관광체육국 문화유산과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-29",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "use2249:20260929132434375",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -1343,22 +1247,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-1844",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47291.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년도 「태화강 오픈 스크린」 보조사업자 모집 재공고",
-   "org": "울산광역시 문화관광체육국 문화예술과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-29",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "cleaneye:B000629-000015-2026",
    "source": "클린아이 잡플러스",
    "source_kind": "지방공기업·출자출연기관",
@@ -1390,22 +1278,6 @@
    "status": "진행중",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1825",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47264.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "제안서 평가위원(후보자) 모집 공고(제5차 울산광역시 물류기본계획 수립 용역)",
-   "org": "울산광역시 교통국 교통관리과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-28",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "use2249:20260928084331142",
@@ -1807,22 +1679,6 @@
    "category": "",
    "posted": "2026-09-28",
    "deadline": "2026-10-08",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1828",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47267.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 울산광역시 직원식당 기간제근로자(조리원) 채용시험 계획 공고",
-   "org": "울산광역시 행정국 총무과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-28",
-   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -2341,70 +2197,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-1792",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47224.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "최중증 발달장애인 통합돌봄서비스 24시간 개별 지원 제공기관 모집 공고",
-   "org": "울산광역시 복지보건국 장애인복지과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-21",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-1806",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47241.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(전기) 모집공고",
-   "org": "울산광역시 건설주택국 주택허가과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-21",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-1807",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47242.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(소방) 모집공고",
-   "org": "울산광역시 건설주택국 주택허가과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-21",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-1805",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47240.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(건축) 모집공고",
-   "org": "울산광역시 건설주택국 주택허가과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-21",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "uou:울산대학교 글로컬대학추진단 · 차세대이차전지융합대학원 계약직원 채용|2026-09-21",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -2420,22 +2212,6 @@
    "status": "D-1",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1808",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47243.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "울산광역시 하수도사업특별회계 회계감사인 선임을 위한 제안서 모집공고",
-   "org": "울산광역시 환경국 하수관리과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-21",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "use2249:20260921145554258",
@@ -2481,22 +2257,6 @@
    "category": "기간제교원(보결)",
    "posted": "2026-09-21",
    "deadline": "2026-09-28",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1800",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47234.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "단기 기간제근로자(상하수도 검침원) 채용 공고",
-   "org": "울산광역시 상수도사업본부 북부사업소",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-21",
-   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -3048,22 +2808,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-1768",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47196.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "상수도사업본부 회계감사인 선임을 위한 제안서 모집 공고",
-   "org": "울산광역시 상수도사업본부 경영부",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-16",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "useonline:2718",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -3188,22 +2932,6 @@
    "posted": "2026-09-16",
    "deadline": "2026-09-30",
    "status": "마감",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1752",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47179.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 산불예방작업단 기간제근로자 채용 공고",
-   "org": "울산광역시 녹지정원국 녹지공원과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-16",
-   "deadline": "",
-   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -3572,22 +3300,6 @@
    "category": "",
    "posted": "2026-09-14",
    "deadline": "2026-10-13",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-1736",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47161.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "울산시립연구형어린이집 위탁체 모집 공고",
-   "org": "울산광역시 분권인구정책국 저출생대응과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-14",
-   "deadline": "",
    "status": "",
    "employment": "기타",
    "is_target": false
@@ -4555,22 +4267,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-1722",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47146.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년도「태화강 오픈 스크린」보조사업자 모집 공고",
-   "org": "울산광역시 문화관광체육국 문화예술과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-09",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "gojobs:303230",
    "source": "나라일터",
    "source_kind": "국가·지자체·공공기관",
@@ -4697,22 +4393,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulsan:2026-15",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47132.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(소방) 모집 개찰결과 공고",
-   "org": "울산광역시 울산경제자유구역청 사업총괄본부 기획행정부",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-08",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "junggu:725778",
@@ -5616,22 +5296,6 @@
    "is_target": false
   },
   {
-   "id": "ulsan:2026-20",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47103.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 울산박물관 전시운영보조 기간제근로자 채용 공고",
-   "org": "울산광역시 울산박물관",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-04",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "uou:2026-2학기 강사 초빙(특별채용)|2026-09-04",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -5777,22 +5441,6 @@
    "is_target": false
   },
   {
-   "id": "ulsan:2026-1670",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47090.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 건설공사 안전점검 수행기관 모집공고",
-   "org": "울산광역시 건설주택국 건설도로과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-03",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "alio:304500",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -5807,22 +5455,6 @@
    "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulsan:2026-14",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47084.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(전기) 모집 개찰결과 공고",
-   "org": "울산광역시 울산경제자유구역청 사업총괄본부 기획행정부",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-02",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "uou:울산대학교 글로컬대학추진단 기술창업지원센터 기술창업지원팀 계약직원 채용 |2026-09-02",
@@ -6034,22 +5666,6 @@
    "is_target": false
   },
   {
-   "id": "ulsan:2026-1652",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47067.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 울산광역시상인연합회 시장매니저 모집 공고",
-   "org": "울산광역시 경제국 상생지원과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-02",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "useonline:2688",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -6063,22 +5679,6 @@
    "deadline": "2026-09-06",
    "status": "",
    "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-13",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47079.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(건축) 모집 개찰결과 공고",
-   "org": "울산광역시 울산경제자유구역청 사업총괄본부 기획행정부",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-01",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
    "is_target": false
   },
   {
@@ -6161,22 +5761,6 @@
    "status": "",
    "employment": "기타",
    "is_target": false
-  },
-  {
-   "id": "ulsan:2026-1665",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47083.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "상수도사업본부 중부사업소 기간제근로자(상하수도 검침원)채용공고",
-   "org": "울산광역시 상수도사업본부 중부사업소",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-01",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "useonline:2685",
@@ -6462,22 +6046,6 @@
    "category": "",
    "posted": "2026-08-31",
    "deadline": "2026-09-11",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1651",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47065.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 울산광역시 직원식당 기간제근로자(조리원) 채용시험 계획 공고",
-   "org": "울산광역시 행정국 총무과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-31",
-   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -7667,22 +7235,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-1624",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47032.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 울산광역시 직원식당 기간제근로자(조리원) 채용시험 계획 재공고",
-   "org": "울산광역시 행정국 총무과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-25",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "use2249:20260824135300170",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -7970,22 +7522,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1600",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47005.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 제3차 전통시장 및 상점가 시설현대화사업 모집 공고",
-   "org": "울산광역시 경제국 상생지원과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-24",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "unist:306862",
@@ -8386,54 +7922,6 @@
    "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulsan:2026-10",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46997.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(전기) 모집공고(KTX울산역세권지구 M5블록)",
-   "org": "울산광역시 울산경제자유구역청 사업총괄본부 기획행정부",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-20",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-11",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46998.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(소방) 모집공고(KTX울산역세권지구 M5블록)",
-   "org": "울산광역시 울산경제자유구역청 사업총괄본부 기획행정부",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-20",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-9",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46996.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "주택건설공사 감리자(건축) 모집공고(KTX울산역세권지구 M5블록)",
-   "org": "울산광역시 울산경제자유구역청 사업총괄본부 기획행정부",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-20",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "use2249:20260820164401777",
@@ -9044,22 +8532,6 @@
    "is_target": false
   },
   {
-   "id": "ulsan:2026-1593",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46994.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026 글로벌 OTA 연계 관광상품 개발 및 런칭 지원 사업 참여기업 모집 공고(연장)",
-   "org": "울산광역시 문화관광체육국 관광과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-19",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
    "id": "junggu:725154",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
@@ -9121,22 +8593,6 @@
    "deadline": "2026-08-24",
    "status": "",
    "employment": "공무직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1579",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46978.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "울산시립합창단 기간제 비상임 단원 모집 공고",
-   "org": "울산광역시 문화예술회관 예술사업과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-18",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
    "is_target": true
   },
   {
@@ -9856,22 +9312,6 @@
    "category": "기타",
    "posted": "2026-08-14",
    "deadline": "2026-08-14",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-1566",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46963.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년도 하반기 울산광역시립청소년교향악단 신규단원 모집 공고",
-   "org": "울산광역시 문화예술회관 예술사업과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-14",
-   "deadline": "",
    "status": "",
    "employment": "기타",
    "is_target": false
@@ -10853,22 +10293,6 @@
    "is_target": true
   },
   {
-   "id": "ulsan:2026-1543",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46938.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 울산광역시 직원식당 기간제근로자(조리원) 채용시험 계획 공고",
-   "org": "울산광역시 행정국 총무과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-11",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "use2249:20260811090224090",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -11057,22 +10481,6 @@
    "category": "기간제교원(보결)",
    "posted": "2026-08-10",
    "deadline": "2026-08-14",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1537",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46930.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "북부소방서 기간제근로자(영양사) 채용 공고",
-   "org": "울산광역시 북부소방서 소방행정과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-10",
-   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -12291,38 +11699,6 @@
    "deadline": "2026-08-24",
    "status": "마감",
    "employment": "정규직",
-   "is_target": false
-  },
-  {
-   "id": "ulsan:2026-1526",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46914.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 중부소방서 기간제근로자(조리원) 채용 공고",
-   "org": "울산광역시 중부소방서 소방행정과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-06",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulsan:2026-1512",
-   "source": "울산광역시 고시공고",
-   "source_kind": "광역자치단체",
-   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46895.ulsan?mId=001004002000000000&gosiGbn=A",
-   "title": "2026년 수산물 상생할인 사업 보조사업자 모집 공고",
-   "org": "울산광역시 경제산업실 해양수산과",
-   "org_type": "지자체",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-08-06",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
    "is_target": false
   },
   {
