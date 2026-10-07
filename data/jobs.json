@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-08 00:22",
+ "generated_at": "2026-10-08 05:58",
  "days": 60,
  "cutoff": "2026-08-09",
- "count": 723,
+ "count": 726,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,11 +54,11 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "fetched": 8,
+   "kept": 3,
+   "dropped_result_notice": 3,
+   "note": "새올 채용공고(링크는 게시판)",
+   "error": ""
   },
   {
    "source": "울산 동구",
@@ -142,6 +142,23 @@
   }
  ],
  "jobs": [
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54686",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2027. 1. 1. 기준 개별주택특성 조사 및 입력 요원 기간제 근로자...",
+   "org": "울산 남구 세무1과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2027-01-01",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
   {
    "id": "ulju:67834",
    "source": "울주군 채용공고",
@@ -383,6 +400,23 @@
    "deadline": "2026-10-07",
    "status": "",
    "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54693",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 남구청 민원안내 자원봉사 도우미 모집 공고(재공고)",
+   "org": "울산 남구 민원여권과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-10-07",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
    "is_target": false
   },
   {
@@ -4391,6 +4425,23 @@
    "status": "",
    "employment": "공무원(임기제·개방형)",
    "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54420",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 환경공무직 채용 계획 공고",
+   "org": "울산 남구 환경자원과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-09-11",
+   "deadline": "",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
   },
   {
    "id": "use2249:20260911133945086",
