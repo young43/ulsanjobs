@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11 15:44",
+ "generated_at": "2026-10-11 22:44",
  "days": 60,
  "cutoff": "2026-08-12",
  "count": 686,
@@ -284,7 +284,7 @@
    "category": "",
    "posted": "2026-10-08",
    "deadline": "2026-10-11",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
