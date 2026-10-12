@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-12 07:39",
+ "generated_at": "2026-10-12 11:00",
  "days": 60,
  "cutoff": "2026-08-13",
- "count": 671,
+ "count": 677,
  "sources": [
   {
    "source": "잡알리오",
@@ -38,7 +38,7 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 67,
+   "fetched": 65,
    "kept": 36,
    "dropped_result_notice": 27,
    "note": "고시공고",
@@ -78,8 +78,8 @@
   },
   {
    "source": "울주군",
-   "fetched": 8,
-   "kept": 7,
+   "fetched": 9,
+   "kept": 8,
    "dropped_result_notice": 1,
    "note": "채용공고",
    "error": ""
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 260,
-   "kept": 246,
+   "kept": 248,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 160,
-   "kept": 141,
+   "kept": 144,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -160,6 +160,22 @@
    "is_target": true
   },
   {
+   "id": "ulju:67880",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67880&mId=0403030100",
+   "title": "울산광역시 울주군 지방임기제공무원 임용시험 시행계획 공고(아동보호전담요원, 치매안심센터 간호사)",
+   "org": "울주군 총무과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2570호",
+   "posted": "2026-10-12",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
    "id": "eminwon:eminwon.bukgu.ulsan.kr:45115",
    "source": "울산 북구 채용공고",
    "source_kind": "기초자치단체",
@@ -175,6 +191,38 @@
    "status": "",
    "employment": "공무직",
    "is_target": true
+  },
+  {
+   "id": "use2249:20261012094346877",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261012094346877",
+   "title": "고헌유치원 기간제교원(특수학급담임) 채용 공고",
+   "org": "고헌유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-10-12",
+   "deadline": "2026-10-15",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2762",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2762",
+   "title": "계약제 교원(시간 강사) 채용 (국어과)",
+   "org": "대송고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 동구",
+   "category": "강사",
+   "posted": "2026-10-12",
+   "deadline": "2026-10-19",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "ulju:67861",
@@ -208,6 +256,54 @@
    "status": "",
    "employment": "기타",
    "is_target": false
+  },
+  {
+   "id": "useonline:2764",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2764",
+   "title": "가온중학교 교육공무직(조리사) 대체 인력 채용 공고",
+   "org": "가온중학교",
+   "org_type": "교육청·학교",
+   "location": "울산 중구",
+   "category": "교육공무직 대체인력",
+   "posted": "2026-10-12",
+   "deadline": "2026-10-20",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261012101721479",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261012101721479",
+   "title": "2026학년도 전하초 겨울방학 중 돌봄교실 특기적성프로그램 개인 위탁 강사 모집 공고",
+   "org": "전하초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "방과후강사(관련)",
+   "posted": "2026-10-12",
+   "deadline": "2026-10-16",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "useonline:2763",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2763",
+   "title": "2026학년도 기간제(시간강사)교원 (역사)채용 공고",
+   "org": "강동고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 북구",
+   "category": "강사",
+   "posted": "2026-10-12",
+   "deadline": "2026-10-14",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "ulju:67862",
@@ -1577,7 +1673,7 @@
    "category": "",
    "posted": "2026-10-01",
    "deadline": "2026-10-12",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -5487,6 +5583,23 @@
    "is_target": true
   },
   {
+   "id": "uou:산업대학원 교학조교(행정)|2026-09-08",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "산업대학원 교학조교(행정)",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-08",
+   "deadline": "2026-09-14",
+   "status": "마감",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260908155729322",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -6029,23 +6142,6 @@
    "posted": "2026-09-07",
    "deadline": "2026-09-10",
    "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "uou:의과대학 간호학과 교학조교(실험)|2026-09-05",
-   "source": "울산대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://recruit.ulsan.ac.kr/",
-   "link_is_board": true,
-   "title": "의과대학 간호학과 교학조교(실험)",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-09-05",
-   "deadline": "2026-09-14",
-   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
