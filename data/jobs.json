@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14 14:44",
+ "generated_at": "2026-10-14 19:59",
  "days": 60,
  "cutoff": "2026-08-15",
- "count": 680,
+ "count": 685,
  "sources": [
   {
    "source": "잡알리오",
@@ -47,7 +47,7 @@
   {
    "source": "울산 중구",
    "fetched": 40,
-   "kept": 22,
+   "kept": 23,
    "dropped_result_notice": 4,
    "note": "채용공고",
    "error": ""
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 270,
-   "kept": 252,
+   "kept": 253,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 160,
-   "kept": 144,
+   "kept": 147,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -136,7 +136,7 @@
    "source": "UNIST",
    "fetched": 108,
    "kept": 15,
-   "dropped_result_notice": 40,
+   "dropped_result_notice": 41,
    "note": "채용공고",
    "error": ""
   }
@@ -160,6 +160,38 @@
    "is_target": true
   },
   {
+   "id": "junggu:726745",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=726745",
+   "title": "학성새벽시장 배송매니저 모집 공고",
+   "org": "울산 중구 전통시장과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-14",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "useonline:2777",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2777",
+   "title": "신정초등학교 기간제교사(담임) 채용 공고",
+   "org": "신정초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 남구",
+   "category": "기간제교사",
+   "posted": "2026-10-14",
+   "deadline": "2026-10-21",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "alio:305987",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -172,6 +204,38 @@
    "posted": "2026-10-14",
    "deadline": "2026-10-28",
    "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261014190157098",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261014190157098",
+   "title": "[양산고]계약제교원(전일제강사-영어) 채용공고",
+   "org": "양산고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-10-14",
+   "deadline": "2026-10-18",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2776",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2776",
+   "title": "2026학년도 천곡중학교 기간제교원(국어) 채용 공고",
+   "org": "천곡중학교",
+   "org_type": "교육청·학교",
+   "location": "울산 북구",
+   "category": "기간제교사",
+   "posted": "2026-10-14",
+   "deadline": "2026-10-19",
+   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -192,6 +256,22 @@
    "is_target": false
   },
   {
+   "id": "useonline:2775",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2775",
+   "title": "2026학년도 기간제(시간강사)교원 (역사, 일반사회, 공통사회, 지리) 재공고",
+   "org": "강동고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 북구",
+   "category": "강사",
+   "posted": "2026-10-14",
+   "deadline": "2026-10-19",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulju:67936",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -201,6 +281,38 @@
    "org_type": "지자체",
    "location": "울산 울주군",
    "category": "울산광역시 울주군 온양읍 공고 제2026-65호",
+   "posted": "2026-10-14",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulju:67940",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67940&mId=0403030100",
+   "title": "2026년 무인단속카메라 단속자료관리 기간제근로자 채용 공고",
+   "org": "울주군 교통정책과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2611호",
+   "posted": "2026-10-14",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulju:67937",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67937&mId=0403030100",
+   "title": "2026년 농지전수조사 기간제 근로자 채용 공고",
+   "org": "울주군 건축허가과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2608호",
    "posted": "2026-10-14",
    "deadline": "",
    "status": "",
@@ -805,22 +917,6 @@
    "is_target": false
   },
   {
-   "id": "ulju:67903",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67903&mId=0403030100",
-   "title": "불법농지 순찰 기간제근로자 채용 공고",
-   "org": "울주군 농업정책과",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 공고 제2026-2586호",
-   "posted": "2026-10-12",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "useonline:2771",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -930,22 +1026,6 @@
    "deadline": "2026-10-19",
    "status": "",
    "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "ulju:67861",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67861&mId=0403030100",
-   "title": "개별주택특성 현장조사 요원 모집 공고",
-   "org": "울주군 세무1과",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 공고 제2026-2555호",
-   "posted": "2026-10-12",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
    "is_target": false
   },
   {
@@ -3560,7 +3640,7 @@
    "category": "",
    "posted": "2026-09-23",
    "deadline": "2026-10-14",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -4963,7 +5043,7 @@
    "id": "unist:307504",
    "source": "UNIST",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307504&article.offset=10&articleLimit=10",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307504&article.offset=20&articleLimit=10",
    "title": "[2026년 10차] AI융합대학 연구원 채용 공고",
    "org": "울산과학기술원(UNIST)",
    "org_type": "대학·연구기관",
@@ -8617,7 +8697,7 @@
    "id": "junggu:725430",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
-   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=725430",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=725430",
    "title": "2026년 제1회 공무직(조리종사원) 채용시험 계획 공고",
    "org": "울산 중구 총무과",
    "org_type": "지자체",
