@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-15 21:24",
+ "generated_at": "2026-10-16 02:35",
  "days": 60,
- "cutoff": "2026-08-16",
- "count": 705,
+ "cutoff": "2026-08-17",
+ "count": 702,
  "sources": [
   {
    "source": "잡알리오",
@@ -22,8 +22,8 @@
   },
   {
    "source": "클린아이 잡플러스",
-   "fetched": 6,
-   "kept": 6,
+   "fetched": 5,
+   "kept": 5,
    "dropped_result_notice": 0,
    "note": "지방공기업·출자출연",
    "error": ""
@@ -54,9 +54,9 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 10,
-   "kept": 5,
-   "dropped_result_notice": 3,
+   "fetched": 8,
+   "kept": 4,
+   "dropped_result_notice": 2,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
@@ -70,17 +70,17 @@
   },
   {
    "source": "울산 북구",
-   "fetched": 4,
+   "fetched": 3,
    "kept": 2,
-   "dropped_result_notice": 2,
+   "dropped_result_notice": 1,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
   {
    "source": "울주군",
    "fetched": 10,
-   "kept": 10,
-   "dropped_result_notice": 0,
+   "kept": 9,
+   "dropped_result_notice": 1,
    "note": "채용공고",
    "error": ""
   },
@@ -143,17 +143,32 @@
  ],
  "jobs": [
   {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54686",
-   "source": "울산 남구 채용공고",
+   "id": "ulju:67955",
+   "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "2027. 1. 1. 기준 개별주택특성 조사 및 입력 요원 기간제 근로자...",
-   "org": "울산 남구 세무1과",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67955&mId=0403030100",
+   "title": "2026년 하반기 폐비닐 및 농약빈병 수거 지원사업 기간제근로자 채용공고",
+   "org": "울주군 웅촌면",
    "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2027-01-01",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 웅촌면 공고 제2026-30호",
+   "posted": "2026-10-16",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulju:67963",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67963&mId=0403030100",
+   "title": "2026년 옹기마을 아카데미관 기간제근로자 채용공고",
+   "org": "울주군 관광과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2628호",
+   "posted": "2026-10-16",
    "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
@@ -252,7 +267,7 @@
    "category": "",
    "posted": "2026-10-15",
    "deadline": "2026-11-02",
-   "status": "D-18",
+   "status": "D-17",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -398,7 +413,7 @@
    "category": "",
    "posted": "2026-10-15",
    "deadline": "2026-10-20",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -476,23 +491,6 @@
    "org_type": "교육청·학교",
    "location": "울산",
    "category": "기간제교원(보결)",
-   "posted": "2026-10-15",
-   "deadline": "2026-10-15",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "cleaneye:2019000007-000020-2026",
-   "source": "클린아이 잡플러스",
-   "source_kind": "지방공기업·출자출연기관",
-   "url": "https://job.cleaneye.go.kr/search.do?kwd=2026%EB%85%84%20%EC%A0%9C2%ED%9A%8C%20%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%B5%EB%8B%A8%20%EC%A7%81%EC%9B%90%20%EA%B2%BD%EB%A0%A5%EA%B2%BD%EC%9F%81%20%EC%B1%84%EC%9A%A9%20%EA%B3%84%EC%95%BD%EC%A7%81%20",
-   "link_is_board": true,
-   "title": "2026년 제2회 울산광역시 북구시설관리공단 직원 경력경쟁 채용 계약직 행정3급 면접시험 일정 변경 공고문",
-   "org": "울산광역시북구시설관리공단",
-   "org_type": "지방공공기관",
-   "location": "울산광역시",
-   "category": "",
    "posted": "2026-10-15",
    "deadline": "2026-10-15",
    "status": "",
@@ -882,7 +880,7 @@
    "category": "",
    "posted": "2026-10-13",
    "deadline": "2026-10-21",
-   "status": "D-6",
+   "status": "D-5",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1143,22 +1141,6 @@
    "is_target": true
   },
   {
-   "id": "ulju:67925",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67925&mId=0403030100",
-   "title": "2026년 치매안심센터 장기결원 대체인력 기간제근로자 채용 공고",
-   "org": "울주군 남부통합보건지소",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 보건소 남부통합보건지소 공고 제2026-13호",
-   "posted": "2026-10-13",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "junggu:726695",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
@@ -1217,22 +1199,6 @@
    "org_type": "지자체",
    "location": "울산 울주군",
    "category": "울산광역시 울주군 삼남읍 공고 제2026-62호",
-   "posted": "2026-10-13",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "ulju:67905",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67905&mId=0403030100",
-   "title": "2026년 농지대장 일제정비 기간제근로자 채용 공고",
-   "org": "울주군 언양읍",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 언양읍 공고 제2026-49호",
    "posted": "2026-10-13",
    "deadline": "",
    "status": "",
@@ -1317,7 +1283,7 @@
    "category": "",
    "posted": "2026-10-12",
    "deadline": "2026-10-19",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1336,22 +1302,6 @@
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
-  },
-  {
-   "id": "ulju:67903",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=67903&mId=0403030100",
-   "title": "불법농지 순찰 기간제근로자 채용 공고",
-   "org": "울주군 농업정책과",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 공고 제2026-2586호",
-   "posted": "2026-10-12",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "useonline:2771",
@@ -1527,7 +1477,7 @@
    "category": "",
    "posted": "2026-10-12",
    "deadline": "2026-10-20",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "정규직",
    "is_target": false
   },
@@ -1624,7 +1574,7 @@
    "category": "",
    "posted": "2026-10-12",
    "deadline": "2026-10-20",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "무기계약직",
    "is_target": true
   },
@@ -2077,7 +2027,7 @@
    "category": "",
    "posted": "2026-10-07",
    "deadline": "2026-10-31",
-   "status": "D-16",
+   "status": "D-15",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -2114,10 +2064,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5852",
+   "id": "chunhae:5853",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5852&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NzgmbGV0dGVyX25vPTU4Njgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5853&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NzgmbGV0dGVyX25vPTU4Njgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[산학협력단] 2026년 청년도약 인재양성 부트캠프 사업 연구원 채용공고(~10/13)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2130,10 +2080,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5860",
+   "id": "chunhae:5852",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5860&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjgmbGV0dGVyX25vPTU4Njgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5852&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjgmbGV0dGVyX25vPTU4Njgmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[글로벌센터] 2026-2 전화 영어 교육 (4차) 모집 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2816,7 +2766,7 @@
    "category": "청년인턴(채용형)",
    "posted": "2026-10-01",
    "deadline": "2026-10-15",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2849,7 +2799,7 @@
    "category": "",
    "posted": "2026-10-01",
    "deadline": "2026-10-20",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -3044,7 +2994,7 @@
    "category": "무기계약직",
    "posted": "2026-10-01",
    "deadline": "2026-10-15",
-   "status": "진행중",
+   "status": "마감",
    "employment": "무기계약직",
    "is_target": true
   },
