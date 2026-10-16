@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-16 21:57",
+ "generated_at": "2026-10-17 02:10",
  "days": 60,
- "cutoff": "2026-08-17",
- "count": 708,
+ "cutoff": "2026-08-18",
+ "count": 705,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,9 +54,9 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 8,
+   "fetched": 7,
    "kept": 4,
-   "dropped_result_notice": 2,
+   "dropped_result_notice": 1,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
@@ -94,8 +94,8 @@
   },
   {
    "source": "울산교육청 일반채용",
-   "fetched": 280,
-   "kept": 262,
+   "fetched": 270,
+   "kept": 260,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 160,
-   "kept": 150,
+   "kept": 149,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -556,7 +556,7 @@
    "category": "",
    "posted": "2026-10-15",
    "deadline": "2026-11-02",
-   "status": "D-17",
+   "status": "D-16",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -686,7 +686,7 @@
    "category": "",
    "posted": "2026-10-15",
    "deadline": "2026-10-20",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1088,7 +1088,7 @@
    "category": "",
    "posted": "2026-10-13",
    "deadline": "2026-10-21",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1443,7 +1443,7 @@
    "category": "",
    "posted": "2026-10-12",
    "deadline": "2026-10-19",
-   "status": "D-3",
+   "status": "D-2",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1637,7 +1637,7 @@
    "category": "",
    "posted": "2026-10-12",
    "deadline": "2026-10-20",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "정규직",
    "is_target": false
   },
@@ -1734,7 +1734,7 @@
    "category": "",
    "posted": "2026-10-12",
    "deadline": "2026-10-20",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "무기계약직",
    "is_target": true
   },
@@ -1981,10 +1981,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5862",
+   "id": "chunhae:5856",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5862&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3ODEmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5856&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3ODEmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[학생처] 2026년도 하반기 울산연구원 장학생 선발 공고 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2008,7 +2008,7 @@
    "category": "무기계약직",
    "posted": "2026-10-08",
    "deadline": "2026-10-16",
-   "status": "진행중",
+   "status": "마감",
    "employment": "무기계약직",
    "is_target": true
   },
@@ -2170,7 +2170,7 @@
    "category": "",
    "posted": "2026-10-07",
    "deadline": "2026-10-31",
-   "status": "D-15",
+   "status": "D-14",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -2207,10 +2207,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5853",
+   "id": "chunhae:5854",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5853&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NzgmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5854&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NzgmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[산학협력단] 2026년 청년도약 인재양성 부트캠프 사업 연구원 채용공고(~10/13)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2223,10 +2223,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5852",
+   "id": "chunhae:5853",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5852&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjgmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5853&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjgmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[글로벌센터] 2026-2 전화 영어 교육 (4차) 모집 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2239,10 +2239,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5861",
+   "id": "chunhae:5862",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5861&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjkmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5862&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjkmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[글로벌센터] 2026 춘해 잉글리시 캠프 Choonhae English camp 모집 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2266,7 +2266,7 @@
    "category": "비정규직",
    "posted": "2026-10-07",
    "deadline": "2026-10-16",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2282,7 +2282,7 @@
    "category": "무기계약직",
    "posted": "2026-10-07",
    "deadline": "2026-10-16",
-   "status": "진행중",
+   "status": "마감",
    "employment": "무기계약직",
    "is_target": true
   },
@@ -2770,10 +2770,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5851",
+   "id": "chunhae:5852",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5851&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjEmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5852&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjEmbGV0dGVyX25vPTU4Njkmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[산학협력단] 2026년 청년도약 인재양성 부트캠프 사업 연구원 채용공고(~10/6)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2942,7 +2942,7 @@
    "category": "",
    "posted": "2026-10-01",
    "deadline": "2026-10-20",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -11453,54 +11453,6 @@
    "category": "기간제교사",
    "posted": "2026-08-18",
    "deadline": "2026-08-21",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "use2249:20260817142902347",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260817142902347",
-   "title": "동대초등학교 2학기 특수교사(담임) 채용 공고",
-   "org": "동대초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기간제교원(보결)",
-   "posted": "2026-08-17",
-   "deadline": "2026-08-21",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "useonline:2624",
-   "source": "울산교육청 온라인채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2624",
-   "title": "2026학년도 2학기 기간제교원(담임) 채용 공고(재공고)",
-   "org": "은월초등학교",
-   "org_type": "교육청·학교",
-   "location": "울산 북구",
-   "category": "기간제교사",
-   "posted": "2026-08-17",
-   "deadline": "2026-08-20",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "use2249:20260817104512445",
-   "source": "울산교육청 일반채용",
-   "source_kind": "교육청·학교",
-   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20260817104512445",
-   "title": "2026 동평중학교 스포츠강사(축구) 채용 공고",
-   "org": "동평중학교",
-   "org_type": "교육청·학교",
-   "location": "울산",
-   "category": "기간제교원(보결)",
-   "posted": "2026-08-17",
-   "deadline": "2026-08-17",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
