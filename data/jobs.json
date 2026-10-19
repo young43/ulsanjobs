@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-19 14:37",
+ "generated_at": "2026-10-19 20:47",
  "days": 60,
  "cutoff": "2026-08-20",
- "count": 583,
+ "count": 594,
  "sources": [
   {
    "source": "잡알리오",
@@ -42,7 +42,7 @@
    "kept": 0,
    "dropped_result_notice": 0,
    "note": "",
-   "error": "SSLError: HTTPSConnectionPool(host='www.ulsan.go.kr', port=443): Max retries exceeded with url: /u/rep/transfer/notice/list.ulsan?"
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.ulsan.go.kr', port=443): Read timed out. (read timeout=30)"
   },
   {
    "source": "울산 중구",
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 260,
-   "kept": 245,
+   "kept": 248,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -103,18 +103,18 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 150,
-   "kept": 135,
+   "kept": 136,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
   },
   {
    "source": "춘해보건대학교",
-   "fetched": 0,
-   "kept": 0,
+   "fetched": 56,
+   "kept": 56,
    "dropped_result_notice": 0,
-   "note": "",
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.ch.ac.kr', port=443): Max retries exceeded with url: /board/board.php?site_id=main&TREE_NO"
+   "note": "공지사항 중 채용글",
+   "error": ""
   },
   {
    "source": "울산과학대학교",
@@ -175,6 +175,39 @@
    "is_target": true
   },
   {
+   "id": "uou:바이오메디컬헬스학부 교학조교(행정)|2026-10-19",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "바이오메디컬헬스학부 교학조교(행정)",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-19",
+   "deadline": "2026-11-02",
+   "status": "D-14",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "use2249:20261019143914455",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261019143914455",
+   "title": "기간제교원 채용 공고(체육 및 도덕 전담)",
+   "org": "삼신초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-10-19",
+   "deadline": "2026-10-19",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "useonline:2784",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -191,6 +224,22 @@
    "is_target": true
   },
   {
+   "id": "use2249:20261019165306561",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261019165306561",
+   "title": "굴화초등학교 기간제교원(특수학급 담임) 채용 공고(4차)",
+   "org": "굴화초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기간제교원(보결)",
+   "posted": "2026-10-19",
+   "deadline": "2026-10-19",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20261019104456106",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -202,6 +251,54 @@
    "category": "기간제교원(보결)",
    "posted": "2026-10-19",
    "deadline": "2026-10-19",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "chunhae:5873",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5873&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM4MjAmbGV0dGVyX25vPTU4NzMmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[교무처] 2027학년도 1학기 교수 채용 공고(~11.2(월)까지)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-19",
+   "deadline": "2026-11-02",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "useonline:2785",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2785",
+   "title": "2026학년도 효정고등학교 시간강사 채용 공고(지리)",
+   "org": "효정고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 북구",
+   "category": "강사",
+   "posted": "2026-10-19",
+   "deadline": "2026-10-21",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "use2249:20261019173239427",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261019173239427",
+   "title": "2026학년도 평산초병설유치원 겨울방학 중 한시적기간제근로자 채용 공고",
+   "org": "평산초등학교병설유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-10-19",
+   "deadline": "2026-10-23",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -576,6 +673,22 @@
    "is_target": false
   },
   {
+   "id": "chunhae:5869",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5869&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM4MDcmbGV0dGVyX25vPTU4NzMmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[글로벌센터] 2026 Global Lounge funfun Activity 모집 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-15",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "alio:306055",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -603,8 +716,8 @@
    "location": "울산",
    "category": "",
    "posted": "2026-10-15",
-   "deadline": "2026-10-20",
-   "status": "D-1",
+   "deadline": "2026-10-23",
+   "status": "D-4",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1026,6 +1139,22 @@
    "is_target": false
   },
   {
+   "id": "chunhae:5867",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5867&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM4MDAmbGV0dGVyX25vPTU4NzMmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[산학협력단] 2026년 청년도약 인재양성 부트캠프 사업 연구원 채용공고(~10/19)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-13",
+   "deadline": "2026-10-19",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20261013084109781",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -1363,6 +1492,22 @@
    "is_target": true
   },
   {
+   "id": "chunhae:5866",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5866&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3OTAmbGV0dGVyX25vPTU4NzMmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[학생처] 2026년 하반기 은평구민 장학생 선발 공고 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-12",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "uou:2026학년도 하반기 일반직원(정규직) 신규채용|2026-10-12",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -1686,6 +1831,22 @@
    "is_target": false
   },
   {
+   "id": "chunhae:5856",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5856&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3ODEmbGV0dGVyX25vPTU4NzMmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[학생처] 2026년도 하반기 울산연구원 장학생 선발 공고 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-08",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "alio:305854",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -1894,6 +2055,38 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "chunhae:5854",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5854&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NzgmbGV0dGVyX25vPTU4NzMmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[산학협력단] 2026년 청년도약 인재양성 부트캠프 사업 연구원 채용공고(~10/13)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-07",
+   "deadline": "2026-10-13",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "chunhae:5865",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5865&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM3NjkmbGV0dGVyX25vPTU4NzMmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[글로벌센터] 2026 춘해 잉글리시 캠프 Choonhae English camp 모집 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-07",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "alio:305789",
@@ -2262,23 +2455,6 @@
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
-  },
-  {
-   "id": "uou:대외홍보팀 계약직원(기부자관리, 총동문회) 채용|2026-10-02",
-   "source": "울산대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://recruit.ulsan.ac.kr/",
-   "link_is_board": true,
-   "title": "대외홍보팀 계약직원(기부자관리, 총동문회) 채용",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-10-02",
-   "deadline": "2026-10-11",
-   "status": "마감",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "useonline:2750",
