@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-21 19:58",
+ "generated_at": "2026-10-22 00:50",
  "days": 60,
- "cutoff": "2026-08-22",
- "count": 650,
+ "cutoff": "2026-08-23",
+ "count": 648,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 127,
-   "kept": 127,
+   "fetched": 128,
+   "kept": 128,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -54,16 +54,16 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 4,
-   "kept": 2,
+   "fetched": 3,
+   "kept": 1,
    "dropped_result_notice": 0,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
   {
    "source": "울산 동구",
-   "fetched": 7,
-   "kept": 2,
+   "fetched": 5,
+   "kept": 0,
    "dropped_result_notice": 5,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
@@ -142,6 +142,22 @@
   }
  ],
  "jobs": [
+  {
+   "id": "alio:306175",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306175",
+   "title": "2026년 제1차 새울원자력본부 기간제근로자 채용",
+   "org": "한국수력원자력(주)",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "비정규직",
+   "posted": "2026-10-22",
+   "deadline": "2026-11-06",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
   {
    "id": "alio:306211",
    "source": "잡알리오",
@@ -686,7 +702,7 @@
    "category": "",
    "posted": "2026-10-19",
    "deadline": "2026-11-02",
-   "status": "D-12",
+   "status": "D-11",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1183,7 +1199,7 @@
    "category": "",
    "posted": "2026-10-15",
    "deadline": "2026-11-02",
-   "status": "D-12",
+   "status": "D-11",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1313,7 +1329,7 @@
    "category": "",
    "posted": "2026-10-15",
    "deadline": "2026-10-23",
-   "status": "D-2",
+   "status": "D-1",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1412,23 +1428,6 @@
    "status": "",
    "employment": "기타",
    "is_target": false
-  },
-  {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54757",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "2026년 국가결핵관리사업 기간제근로자 채용 공고",
-   "org": "울산 남구 보건관리과",
-   "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2026-10-15",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "junggu:726745",
@@ -1960,23 +1959,6 @@
    "is_target": true
   },
   {
-   "id": "eminwon:eminwon.donggu.ulsan.kr:28493",
-   "source": "울산 동구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.donggu.ulsan.kr/donggu/contents/contents.do?mId=4040201",
-   "link_is_board": true,
-   "title": "2026년 울산광역시 동구 환경공무직 공개채용 계획 공고",
-   "org": "울산 동구 자원순환과",
-   "org_type": "지자체",
-   "location": "울산 동구",
-   "category": "",
-   "posted": "2026-10-13",
-   "deadline": "",
-   "status": "",
-   "employment": "공무직",
-   "is_target": true
-  },
-  {
    "id": "alio:305969",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -2461,23 +2443,6 @@
    "is_target": false
   },
   {
-   "id": "eminwon:eminwon.donggu.ulsan.kr:28500",
-   "source": "울산 동구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.donggu.ulsan.kr/donggu/contents/contents.do?mId=4040201",
-   "link_is_board": true,
-   "title": "2026년 모자보건사업 기간제근로자 채용 공고",
-   "org": "울산 동구 건강관리과",
-   "org_type": "지자체",
-   "location": "울산 동구",
-   "category": "",
-   "posted": "2026-10-12",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "use2249:20261008124632784",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -2730,7 +2695,7 @@
    "category": "비정규직",
    "posted": "2026-10-07",
    "deadline": "2026-10-21",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2763,7 +2728,7 @@
    "category": "",
    "posted": "2026-10-07",
    "deadline": "2026-10-31",
-   "status": "D-10",
+   "status": "D-9",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -3083,7 +3048,7 @@
    "category": "청년인턴(체험형)",
    "posted": "2026-10-06",
    "deadline": "2026-10-21",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
