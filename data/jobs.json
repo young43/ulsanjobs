@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-21 06:08",
+ "generated_at": "2026-10-21 09:20",
  "days": 60,
  "cutoff": "2026-08-22",
- "count": 641,
+ "count": 644,
  "sources": [
   {
    "source": "잡알리오",
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 61,
-   "kept": 35,
+   "fetched": 62,
+   "kept": 36,
    "dropped_result_notice": 24,
    "note": "고시공고",
    "error": ""
@@ -54,11 +54,11 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 0,
-   "kept": 0,
+   "fetched": 4,
+   "kept": 2,
    "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "note": "새올 채용공고(링크는 게시판)",
+   "error": ""
   },
   {
    "source": "울산 동구",
@@ -155,6 +155,22 @@
    "posted": "2026-10-21",
    "deadline": "2026-11-05",
    "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulsan:2026-1972",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47436.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "2026년 남부소방서 기간제근로자(조리원) 채용 공고",
+   "org": "울산광역시 남부소방서 소방행정과",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-21",
+   "deadline": "",
+   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1317,6 +1333,23 @@
    "status": "",
    "employment": "기타",
    "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54757",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 국가결핵관리사업 기간제근로자 채용 공고",
+   "org": "울산 남구 보건관리과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-10-15",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "junggu:726745",
@@ -6360,6 +6393,23 @@
    "status": "",
    "employment": "공무원(임기제·개방형)",
    "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54420",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 환경공무직 채용 계획 공고",
+   "org": "울산 남구 환경자원과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-09-11",
+   "deadline": "",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
   },
   {
    "id": "use2249:20260911133945086",
