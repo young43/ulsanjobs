@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30 05:03",
+ "generated_at": "2026-10-30 08:54",
  "days": 60,
  "cutoff": "2026-08-31",
- "count": 596,
+ "count": 599,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,11 +54,11 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "fetched": 6,
+   "kept": 3,
+   "dropped_result_notice": 1,
+   "note": "새올 채용공고(링크는 게시판)",
+   "error": ""
   },
   {
    "source": "울산 동구",
@@ -175,6 +175,22 @@
    "status": "D-17",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "ulju:68108",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68108&mId=0403030100",
+   "title": "2027년 장애인일자리사업 참여자 모집공고",
+   "org": "울주군 노인장애인과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2719호",
+   "posted": "2026-10-30",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "gojobs:307036",
@@ -917,6 +933,23 @@
    "is_target": true
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54818",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "삼산동 43통장 모집 공고",
+   "org": "울산 남구 삼산동",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-10-26",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "uou:비교과지원팀 계약직원(실무급) 채용_2차|2026-10-26",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -1047,15 +1080,16 @@
    "is_target": true
   },
   {
-   "id": "ulju:68072",
-   "source": "울주군 채용공고",
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54848",
+   "source": "울산 남구 채용공고",
    "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68072&mId=0403030100",
-   "title": "2026년 하반기 폐비닐 및 농약빈병 수거사업 기간제 채용 공고",
-   "org": "울주군 두서면",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 국가결핵관리사업 기간제근로자 채용 재공고",
+   "org": "울산 남구 보건관리과",
    "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 두서면 공고 제2026-36호",
+   "location": "울산 남구",
+   "category": "",
    "posted": "2026-10-26",
    "deadline": "",
    "status": "",
@@ -7253,6 +7287,23 @@
    "status": "",
    "employment": "공무원(임기제·개방형)",
    "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54420",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 환경공무직 채용 계획 공고",
+   "org": "울산 남구 환경자원과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-09-11",
+   "deadline": "",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
   },
   {
    "id": "use2249:20260911133945086",
