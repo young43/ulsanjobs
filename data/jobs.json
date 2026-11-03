@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04 03:57",
+ "generated_at": "2026-11-04 08:53",
  "days": 60,
  "cutoff": "2026-09-05",
- "count": 576,
+ "count": 578,
  "sources": [
   {
    "source": "잡알리오",
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 57,
-   "kept": 36,
+   "fetched": 58,
+   "kept": 37,
    "dropped_result_notice": 19,
    "note": "고시공고",
    "error": ""
@@ -79,8 +79,8 @@
   {
    "source": "울주군",
    "fetched": 10,
-   "kept": 8,
-   "dropped_result_notice": 2,
+   "kept": 9,
+   "dropped_result_notice": 1,
    "note": "채용공고",
    "error": ""
   },
@@ -142,6 +142,38 @@
   }
  ],
  "jobs": [
+  {
+   "id": "ulsan:2026-2024",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47502.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "제4기 울산광역시 공공건축가 공개모집 공고",
+   "org": "울산광역시 건설주택국 건축정책과",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-04",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "ulju:68209",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68209&mId=0403030100",
+   "title": "울주군청 구내식당 기간제근로자 채용 재공고(추가)",
+   "org": "울주군 총무과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2799호",
+   "posted": "2026-11-04",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
   {
    "id": "uou:공유대학사업단 계약직 채용|2026-11-04",
    "source": "울산대학교",
