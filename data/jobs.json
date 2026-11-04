@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04 21:46",
+ "generated_at": "2026-11-05 05:14",
  "days": 60,
- "cutoff": "2026-09-05",
+ "cutoff": "2026-09-06",
  "count": 593,
  "sources": [
   {
@@ -62,9 +62,9 @@
   },
   {
    "source": "울산 동구",
-   "fetched": 5,
+   "fetched": 4,
    "kept": 2,
-   "dropped_result_notice": 3,
+   "dropped_result_notice": 2,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
@@ -283,7 +283,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-19",
-   "status": "D-15",
+   "status": "D-14",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -316,7 +316,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-11",
-   "status": "D-7",
+   "status": "D-6",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -510,7 +510,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-16",
-   "status": "D-12",
+   "status": "D-11",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -559,7 +559,7 @@
    "category": "",
    "posted": "2026-11-03",
    "deadline": "2026-11-11",
-   "status": "D-7",
+   "status": "D-6",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -640,7 +640,7 @@
    "category": "",
    "posted": "2026-11-03",
    "deadline": "2026-11-11",
-   "status": "D-7",
+   "status": "D-6",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -932,7 +932,7 @@
    "category": "",
    "posted": "2026-11-02",
    "deadline": "2026-11-16",
-   "status": "D-12",
+   "status": "D-11",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -997,7 +997,7 @@
    "category": "",
    "posted": "2026-11-02",
    "deadline": "2026-11-15",
-   "status": "D-11",
+   "status": "D-10",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1785,7 +1785,7 @@
    "category": "비정규직",
    "posted": "2026-10-28",
    "deadline": "2026-11-04",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1801,7 +1801,7 @@
    "category": "비정규직",
    "posted": "2026-10-28",
    "deadline": "2026-11-04",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1817,7 +1817,7 @@
    "category": "비정규직",
    "posted": "2026-10-28",
    "deadline": "2026-11-04",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1850,7 +1850,7 @@
    "category": "",
    "posted": "2026-10-28",
    "deadline": "2026-11-08",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1866,7 +1866,7 @@
    "category": "비정규직 외 1",
    "posted": "2026-10-28",
    "deadline": "2026-11-04",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2158,7 +2158,7 @@
    "category": "",
    "posted": "2026-10-26",
    "deadline": "2026-11-10",
-   "status": "D-6",
+   "status": "D-5",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2367,7 +2367,7 @@
    "category": "",
    "posted": "2026-10-22",
    "deadline": "2026-11-11",
-   "status": "D-7",
+   "status": "D-6",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
