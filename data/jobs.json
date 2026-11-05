@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-05 05:14",
+ "generated_at": "2026-11-05 10:16",
  "days": 60,
  "cutoff": "2026-09-06",
- "count": 593,
+ "count": 597,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 110,
-   "kept": 110,
+   "fetched": 111,
+   "kept": 111,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -38,9 +38,9 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 60,
-   "kept": 39,
-   "dropped_result_notice": 19,
+   "fetched": 62,
+   "kept": 40,
+   "dropped_result_notice": 20,
    "note": "고시공고",
    "error": ""
   },
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 240,
-   "kept": 221,
+   "kept": 222,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 130,
-   "kept": 111,
+   "kept": 112,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -142,6 +142,70 @@
   }
  ],
  "jobs": [
+  {
+   "id": "ulsan:2026-23",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47552.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "제안서 평가위원 후보자 모집 공고(울산 라이징포트 신규영상 개발 및 체험공간 구축 용역)",
+   "org": "울산광역시 울산박물관",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-05",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "useonline:2812",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2812",
+   "title": "덕신초 기간제 교원 채용공고(체육전담)",
+   "org": "덕신초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 울주군",
+   "category": "기간제교사",
+   "posted": "2026-11-05",
+   "deadline": "2026-11-10",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "alio:306723",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306723",
+   "title": "기간제근로자(대체인력) 채용공고[부산울산본부]",
+   "org": "한국전력공사",
+   "org_type": "공공기관",
+   "location": "부산 외 2",
+   "category": "비정규직",
+   "posted": "2026-11-05",
+   "deadline": "2026-11-19",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261105091715751",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261105091715751",
+   "title": "(재공고)2026학년도 덕신초등학교 방과후프로그램 수학 개인위탁 외부 강사 모집",
+   "org": "덕신초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "방과후강사(관련)",
+   "posted": "2026-11-05",
+   "deadline": "2026-11-09",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
   {
    "id": "use2249:20261104104543156",
    "source": "울산교육청 일반채용",
