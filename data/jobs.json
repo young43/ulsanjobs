@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05 17:52",
+ "generated_at": "2026-11-06 02:03",
  "days": 60,
- "cutoff": "2026-09-06",
- "count": 609,
+ "cutoff": "2026-09-07",
+ "count": 612,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,8 +54,8 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 8,
-   "kept": 5,
+   "fetched": 9,
+   "kept": 6,
    "dropped_result_notice": 1,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
@@ -63,15 +63,15 @@
   {
    "source": "울산 동구",
    "fetched": 4,
-   "kept": 2,
-   "dropped_result_notice": 2,
+   "kept": 3,
+   "dropped_result_notice": 1,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
   {
    "source": "울산 북구",
-   "fetched": 8,
-   "kept": 7,
+   "fetched": 10,
+   "kept": 9,
    "dropped_result_notice": 1,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
@@ -79,8 +79,8 @@
   {
    "source": "울주군",
    "fetched": 10,
-   "kept": 8,
-   "dropped_result_notice": 2,
+   "kept": 7,
+   "dropped_result_notice": 3,
    "note": "채용공고",
    "error": ""
   },
@@ -136,12 +136,80 @@
    "source": "UNIST",
    "fetched": 108,
    "kept": 17,
-   "dropped_result_notice": 46,
+   "dropped_result_notice": 47,
    "note": "채용공고",
    "error": ""
   }
  ],
  "jobs": [
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54955",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "취득세 및 등록면허세 업무보조 기간제근로자 채용 공고",
+   "org": "울산 남구 세무1과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-11-06",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.donggu.ulsan.kr:28624",
+   "source": "울산 동구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.donggu.ulsan.kr/donggu/contents/contents.do?mId=4040201",
+   "link_is_board": true,
+   "title": "2027년도 장애인일자리사업 참여자 모집공고",
+   "org": "울산 동구 노인장애인과",
+   "org_type": "지자체",
+   "location": "울산 동구",
+   "category": "",
+   "posted": "2026-11-06",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.bukgu.ulsan.kr:45374",
+   "source": "울산 북구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
+   "link_is_board": true,
+   "title": "2027년 북구비정규직노동자지원센터 직원 채용 공고",
+   "org": "울산 북구 산업혁신과",
+   "org_type": "지자체",
+   "location": "울산 북구",
+   "category": "",
+   "posted": "2026-11-06",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.bukgu.ulsan.kr:45367",
+   "source": "울산 북구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
+   "link_is_board": true,
+   "title": "2026년 제5회 북구시설관리공단 기간제근로자 채용 공고",
+   "org": "울산 북구 기획예산실",
+   "org_type": "지자체",
+   "location": "울산 북구",
+   "category": "",
+   "posted": "2026-11-06",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
   {
    "id": "eminwon:eminwon.bukgu.ulsan.kr:45370",
    "source": "울산 북구 채용공고",
@@ -686,7 +754,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-19",
-   "status": "D-14",
+   "status": "D-13",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -719,7 +787,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-11",
-   "status": "D-6",
+   "status": "D-5",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -837,22 +905,6 @@
    "is_target": true
   },
   {
-   "id": "ulju:68221",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68221&mId=0403030100",
-   "title": "2026년 하반기 가축사육업 허가 등록 농가 점검 기간제 근로자 채용",
-   "org": "울주군 상북면",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 상북면 공고 제2026-43호",
-   "posted": "2026-11-04",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "gojobs:307487",
    "source": "나라일터",
    "source_kind": "국가·지자체·공공기관",
@@ -913,7 +965,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-16",
-   "status": "D-11",
+   "status": "D-10",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -962,7 +1014,7 @@
    "category": "",
    "posted": "2026-11-03",
    "deadline": "2026-11-11",
-   "status": "D-6",
+   "status": "D-5",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1043,7 +1095,7 @@
    "category": "",
    "posted": "2026-11-03",
    "deadline": "2026-11-11",
-   "status": "D-6",
+   "status": "D-5",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1239,7 +1291,7 @@
    "category": "",
    "posted": "2026-11-02",
    "deadline": "2026-11-16",
-   "status": "D-11",
+   "status": "D-10",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1304,7 +1356,7 @@
    "category": "",
    "posted": "2026-11-02",
    "deadline": "2026-11-15",
-   "status": "D-10",
+   "status": "D-9",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2125,7 +2177,7 @@
    "category": "",
    "posted": "2026-10-28",
    "deadline": "2026-11-08",
-   "status": "D-3",
+   "status": "D-2",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2433,7 +2485,7 @@
    "category": "",
    "posted": "2026-10-26",
    "deadline": "2026-11-10",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2642,7 +2694,7 @@
    "category": "",
    "posted": "2026-10-22",
    "deadline": "2026-11-11",
-   "status": "D-6",
+   "status": "D-5",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -2658,7 +2710,7 @@
    "category": "정규직",
    "posted": "2026-10-22",
    "deadline": "2026-11-05",
-   "status": "진행중",
+   "status": "마감",
    "employment": "정규직",
    "is_target": false
   },
@@ -2690,7 +2742,7 @@
    "category": "청년인턴(채용형) 외 1",
    "posted": "2026-10-22",
    "deadline": "2026-11-05",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2706,7 +2758,7 @@
    "category": "청년인턴(체험형)",
    "posted": "2026-10-22",
    "deadline": "2026-11-05",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2754,7 +2806,7 @@
    "category": "청년인턴(체험형)",
    "posted": "2026-10-22",
    "deadline": "2026-11-05",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2802,7 +2854,7 @@
    "category": "청년인턴(채용형) 외 1",
    "posted": "2026-10-21",
    "deadline": "2026-11-05",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
