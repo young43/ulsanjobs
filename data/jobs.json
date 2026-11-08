@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08 05:05",
+ "generated_at": "2026-11-08 09:10",
  "days": 60,
  "cutoff": "2026-09-09",
- "count": 585,
+ "count": 590,
  "sources": [
   {
    "source": "잡알리오",
@@ -54,11 +54,11 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 0,
-   "kept": 0,
+   "fetched": 7,
+   "kept": 5,
    "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.ulsannamgu.go.kr', port=443): Read timed out. (read timeout=30)"
+   "note": "새올 채용공고(링크는 게시판)",
+   "error": ""
   },
   {
    "source": "울산 동구",
@@ -155,6 +155,23 @@
    "posted": "2026-11-06",
    "deadline": "2026-11-20",
    "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54955",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "취득세 및 등록면허세 업무보조 기간제근로자 채용 공고",
+   "org": "울산 남구 세무1과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-11-06",
+   "deadline": "",
+   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -590,6 +607,23 @@
    "org_type": "지자체",
    "location": "울산 울주군",
    "category": "울산광역시 울주군 공고 제2026-2817호",
+   "posted": "2026-11-05",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54938",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 공고",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
    "posted": "2026-11-05",
    "deadline": "",
    "status": "",
@@ -1501,6 +1535,23 @@
    "is_target": true
   },
   {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54912",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "2026년 남구보건소 금연지도원 신규위촉 모집 공고",
+   "org": "울산 남구 건강행복과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-11-03",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "use2249:20261103084219366",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -1983,6 +2034,23 @@
    "deadline": "2026-11-11",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54892",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 공고(2027년 1분기...",
+   "org": "울산 남구 총무과",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-10-30",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
    "is_target": false
   },
   {
@@ -2706,6 +2774,23 @@
    "status": "",
    "employment": "공무직",
    "is_target": true
+  },
+  {
+   "id": "eminwon:eminwon.ulsannamgu.go.kr:54818",
+   "source": "울산 남구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
+   "link_is_board": true,
+   "title": "삼산동 43통장 모집 공고",
+   "org": "울산 남구 삼산동",
+   "org_type": "지자체",
+   "location": "울산 남구",
+   "category": "",
+   "posted": "2026-10-26",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "uou:비교과지원팀 계약직원(실무급) 채용_2차|2026-10-26",
