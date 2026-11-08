@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08 15:55",
+ "generated_at": "2026-11-08 23:02",
  "days": 60,
  "cutoff": "2026-09-09",
- "count": 573,
+ "count": 584,
  "sources": [
   {
    "source": "잡알리오",
@@ -110,11 +110,11 @@
   },
   {
    "source": "춘해보건대학교",
-   "fetched": 48,
-   "kept": 48,
+   "fetched": 0,
+   "kept": 0,
    "dropped_result_notice": 0,
-   "note": "공지사항 중 채용글",
-   "error": ""
+   "note": "",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.ch.ac.kr', port=443): Max retries exceeded with url: /board/board.php?site_id=main&TREE_NO"
   },
   {
    "source": "울산과학대학교",
@@ -134,11 +134,11 @@
   },
   {
    "source": "UNIST",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
-   "note": "",
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.unist.ac.kr', port=443): Max retries exceeded with url: /unist/etc/notification/employment"
+   "fetched": 108,
+   "kept": 17,
+   "dropped_result_notice": 47,
+   "note": "채용공고",
+   "error": ""
   }
  ],
  "jobs": [
@@ -239,38 +239,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "chunhae:5898",
-   "source": "춘해보건대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5898&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MzImbGV0dGVyX25vPTU5MDAmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
-   "title": "[기획처] 조교 채용 공고(글로벌케어과)(~11/13)",
-   "org": "춘해보건대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-11-06",
-   "deadline": "2026-11-13",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "chunhae:5897",
-   "source": "춘해보건대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5897&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MzEmbGV0dGVyX25vPTU5MDAmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
-   "title": "[기획처] 조교 채용 공고(간호학과)(~11/13)",
-   "org": "춘해보건대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-11-06",
-   "deadline": "2026-11-13",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
   },
   {
    "id": "eminwon:eminwon.donggu.ulsan.kr:28624",
@@ -1406,38 +1374,6 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5893",
-   "source": "춘해보건대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5893&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MDEmbGV0dGVyX25vPTU5MDAmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
-   "title": "[학생처] 2026년도 통영시 저소득층 대학생 장학금 지원대상자 선발 안내",
-   "org": "춘해보건대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-11-03",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "chunhae:5896",
-   "source": "춘해보건대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5896&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MDgmbGV0dGVyX25vPTU5MDAmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
-   "title": "[산학협력단] 전문대학 혁신지원사업(사회공헌센터/장애학생지원센터) 연구원 채용공고(~11/9)",
-   "org": "춘해보건대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-11-03",
-   "deadline": "2026-11-09",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "eminwon:eminwon.bukgu.ulsan.kr:45349",
    "source": "울산 북구 채용공고",
    "source_kind": "기초자치단체",
@@ -1764,20 +1700,20 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5891",
-   "source": "춘해보건대학교",
+   "id": "unist:311476",
+   "source": "UNIST",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5891&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM4OTkmbGV0dGVyX25vPTU5MDAmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
-   "title": "[기획처] 직원(일반행정직) 채용 공고(~11/16)",
-   "org": "춘해보건대학교",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=311476&article.offset=0&articleLimit=10",
+   "title": "UNIST 자연과학대학 화학과행정실 행정인력(계약직) 채용 공고",
+   "org": "울산과학기술원(UNIST)",
    "org_type": "대학·연구기관",
    "location": "울산",
    "category": "",
    "posted": "2026-11-02",
-   "deadline": "2026-11-16",
+   "deadline": "",
    "status": "",
-   "employment": "정규직",
-   "is_target": false
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "ulsan:2026-2038",
@@ -3035,6 +2971,22 @@
    "is_target": false
   },
   {
+   "id": "unist:311155",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=311155&article.offset=10&articleLimit=10",
+   "title": "[2027년 1차] 공과대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-22",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "alio:306272",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -3304,22 +3256,6 @@
    "deadline": "2026-10-21",
    "status": "",
    "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "chunhae:5884",
-   "source": "춘해보건대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5884&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM4MjYmbGV0dGVyX25vPTU5MDAmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
-   "title": "[글로벌센터] 2026 제4차 토익경진대회 참여자 모집 안내",
-   "org": "춘해보건대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-10-20",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
    "is_target": false
   },
   {
@@ -3624,6 +3560,38 @@
    "deadline": "2026-10-26",
    "status": "",
    "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "unist:311093",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=311093&article.offset=10&articleLimit=10",
+   "title": "2026년 행정처 인사팀 연구원(계약직) 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-19",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "unist:311087",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=311087&article.offset=10&articleLimit=10",
+   "title": "2026-11차 자연과학대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-19",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
    "is_target": false
   },
   {
@@ -4187,6 +4155,38 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "unist:310187",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=310187&article.offset=10&articleLimit=10",
+   "title": "[2026년 11차] AI융합대학 연구원 신규 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-14",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "unist:310193",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=310193&article.offset=10&articleLimit=10",
+   "title": "UNIST 창업육성팀 연구원 채용공고(26년 5차)",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-14",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "use2249:20261014100801179",
@@ -5468,6 +5468,22 @@
    "category": "지방공무원보조인력",
    "posted": "2026-10-06",
    "deadline": "2026-10-13",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "unist:307935",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307935&article.offset=20&articleLimit=10",
+   "title": "대외협력처 국제협력팀 육아휴직 대체 인력(계약직) 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-10-06",
+   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -7125,6 +7141,22 @@
    "is_target": true
   },
   {
+   "id": "unist:307600",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307600&article.offset=30&articleLimit=10",
+   "title": "행정처 재무팀 육아휴직 대체 인력(계약직) 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-22",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20260922141601915",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -7152,6 +7184,38 @@
    "category": "강사",
    "posted": "2026-09-22",
    "deadline": "2026-09-29",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "unist:307610",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307610&article.offset=20&articleLimit=10",
+   "title": "[유니스트기술지주] 2026년 3차 정규직원 채용 수정공고 (투자심사역, 신입) (재공고)",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-22",
+   "deadline": "",
+   "status": "",
+   "employment": "정규직",
+   "is_target": false
+  },
+  {
+   "id": "unist:307605",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307605&article.offset=30&articleLimit=10",
+   "title": "[2026년 11차] 공과대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-22",
+   "deadline": "",
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
@@ -7461,6 +7525,22 @@
    "is_target": true
   },
   {
+   "id": "unist:307565",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307565&article.offset=30&articleLimit=10",
+   "title": "[2026년 10-1차] AI융합대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-21",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260921085657060",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -7713,6 +7793,22 @@
    "category": "기간제교원(보결)",
    "posted": "2026-09-18",
    "deadline": "2026-09-28",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "unist:307561",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307561&article.offset=30&articleLimit=10",
+   "title": "UNIST 행정처 구매팀 계약직 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-18",
+   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
@@ -8214,6 +8310,22 @@
    "is_target": true
   },
   {
+   "id": "unist:307504",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307504&article.offset=30&articleLimit=10",
+   "title": "[2026년 10차] AI융합대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-15",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260915112047990",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -8340,6 +8452,22 @@
    "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "unist:307492",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307492&article.offset=30&articleLimit=10",
+   "title": "2026-10차 자연과학대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-15",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "use2249:20260915162548986",
@@ -8918,6 +9046,22 @@
    "is_target": false
   },
   {
+   "id": "unist:307433",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307433&article.offset=40&articleLimit=10",
+   "title": "[U미래전략원] 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-11",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260911154316494",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -9271,6 +9415,22 @@
    "is_target": true
   },
   {
+   "id": "unist:307311",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307311&article.offset=40&articleLimit=10",
+   "title": "[2026년 10차] 공과대학 연구원 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-09",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "use2249:20260909084810364",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -9349,6 +9509,22 @@
    "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "unist:307324",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307324&article.offset=40&articleLimit=10",
+   "title": "2026-9차 자연과학대학 연구원 채용 공고 종료 안내",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-09",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   }
  ]
 }
