@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09 03:44",
+ "generated_at": "2026-11-09 07:40",
  "days": 60,
  "cutoff": "2026-09-10",
- "count": 578,
+ "count": 569,
  "sources": [
   {
    "source": "잡알리오",
@@ -70,11 +70,11 @@
   },
   {
    "source": "울산 북구",
-   "fetched": 10,
-   "kept": 9,
-   "dropped_result_notice": 1,
-   "note": "새올 채용공고(링크는 게시판)",
-   "error": ""
+   "fetched": 0,
+   "kept": 0,
+   "dropped_result_notice": 0,
+   "note": "",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='eminwon.bukgu.ulsan.kr', port=443): Read timed out. (read timeout=30)"
   },
   {
    "source": "울주군",
@@ -142,23 +142,6 @@
   }
  ],
  "jobs": [
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45342",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "울산광역시 북구 공무직근로자 채용계획 공고",
-   "org": "울산 북구 총무과",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-09",
-   "deadline": "",
-   "status": "",
-   "employment": "공무직",
-   "is_target": true
-  },
   {
    "id": "alio:306673",
    "source": "잡알리오",
@@ -355,40 +338,6 @@
    "is_target": false
   },
   {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45378",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2027년 상반기 울산광역시 북구 구립도서관 기간제근로자 채용 공고",
-   "org": "울산 북구 구립도서관",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-06",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45374",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2027년 북구비정규직노동자지원센터 직원 채용 공고",
-   "org": "울산 북구 산업혁신과",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-06",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "use2249:20261106104239764",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -467,23 +416,6 @@
    "status": "",
    "employment": "공무원(임기제·개방형)",
    "is_target": false
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45367",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2026년 제5회 북구시설관리공단 기간제근로자 채용 공고",
-   "org": "울산 북구 기획예산실",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-06",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "ulju:68257",
@@ -596,23 +528,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45370",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "통장 공개모집 공고(제16통, 제25통, 제26통)",
-   "org": "울산 북구 강동동",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-05",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "alio:306750",
@@ -838,23 +753,6 @@
    "status": "",
    "employment": "기타",
    "is_target": false
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45369",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2027년 아동복지교사(기간제근로자) 채용 공고",
-   "org": "울산 북구 통합돌봄과",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-05",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "use2249:20261105162418127",
@@ -1179,23 +1077,6 @@
    "is_target": false
   },
   {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45364",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2027년도 상반기 동 청사 환경정비 기간제근로자 채용 공고",
-   "org": "울산 북구 농소2동",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-04",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "ulsan:2026-2081",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -1487,23 +1368,6 @@
    "is_target": false
   },
   {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45349",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2027년 효문동 주민자치센터 강사 공개모집 공고",
-   "org": "울산 북구 효문동",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-03",
-   "deadline": "",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "ulsan:2026-2045",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -1778,23 +1642,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45334",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "농소2동 주민자치회 간사 모집 공고",
-   "org": "울산 북구 농소2동",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-02",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "use2249:20261102150853128",
