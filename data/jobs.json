@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11 16:27",
+ "generated_at": "2026-11-12 00:47",
  "days": 60,
- "cutoff": "2026-09-12",
+ "cutoff": "2026-09-13",
  "count": 610,
  "sources": [
   {
@@ -38,7 +38,7 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 66,
+   "fetched": 67,
    "kept": 47,
    "dropped_result_notice": 18,
    "note": "고시공고",
@@ -54,8 +54,8 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 10,
-   "kept": 7,
+   "fetched": 9,
+   "kept": 6,
    "dropped_result_notice": 1,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
@@ -79,8 +79,8 @@
   {
    "source": "울주군",
    "fetched": 10,
-   "kept": 8,
-   "dropped_result_notice": 2,
+   "kept": 9,
+   "dropped_result_notice": 1,
    "note": "채용공고",
    "error": ""
   },
@@ -155,7 +155,7 @@
    "category": "",
    "posted": "2026-11-12",
    "deadline": "2026-11-23",
-   "status": "D-12",
+   "status": "D-11",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -172,9 +172,41 @@
    "category": "",
    "posted": "2026-11-12",
    "deadline": "2026-11-19",
-   "status": "D-8",
+   "status": "D-7",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "ulju:68228",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68228&mId=0403030100",
+   "title": "두동면 주민자치센터 자원봉사자 모집 공고",
+   "org": "울주군 두동면",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 두동면 공고 제2026-31호",
+   "posted": "2026-11-12",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "ulju:68227",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68227&mId=0403030100",
+   "title": "2027년 두동면 주민자치센터 강사 모집 공고",
+   "org": "울주군 두동면",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 두동면 공고 제2026-30호",
+   "posted": "2026-11-12",
+   "deadline": "",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "uou:울산대학교 글로컬대학추진단 계약직원 채용 공고|2026-11-11",
@@ -189,7 +221,7 @@
    "category": "",
    "posted": "2026-11-11",
    "deadline": "2026-11-20",
-   "status": "D-9",
+   "status": "D-8",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -206,7 +238,7 @@
    "category": "",
    "posted": "2026-11-11",
    "deadline": "2026-11-18",
-   "status": "D-7",
+   "status": "D-6",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -582,6 +614,22 @@
    "is_target": true
   },
   {
+   "id": "ulju:68310",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68310&mId=0403030100",
+   "title": "2026년 산불위험요인 제거사업(풀베기) 기간제근로자 채용 공고(변경)",
+   "org": "울주군 두서면",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 두서면 공고 제2026-40호",
+   "posted": "2026-11-11",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulju:68299",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -740,7 +788,7 @@
    "category": "",
    "posted": "2026-11-10",
    "deadline": "2026-11-19",
-   "status": "D-8",
+   "status": "D-7",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1111,7 +1159,7 @@
    "category": "",
    "posted": "2026-11-09",
    "deadline": "2026-11-18",
-   "status": "D-7",
+   "status": "D-6",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1548,7 +1596,7 @@
    "category": "",
    "posted": "2026-11-06",
    "deadline": "2026-11-15",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1781,22 +1829,6 @@
    "is_target": true
   },
   {
-   "id": "ulju:68257",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68257&mId=0403030100",
-   "title": "2026년 서생면 축산업 허가 등록 농가 점검 기간제근로자 채용 공고",
-   "org": "울주군 서생면",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 서생면 공고 제2026-42호",
-   "posted": "2026-11-06",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "ulju:68259",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -1811,22 +1843,6 @@
    "status": "",
    "employment": "기타",
    "is_target": false
-  },
-  {
-   "id": "ulju:68250",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68250&mId=0403030100",
-   "title": "2026년 기간제근로자 채용(농민수당, 농지조사)",
-   "org": "울주군 두서면",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 두서면 공고 제2026-38호",
-   "posted": "2026-11-06",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
   },
   {
    "id": "use2249:20261106085753019",
@@ -2338,7 +2354,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-19",
-   "status": "D-8",
+   "status": "D-7",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2500,7 +2516,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-16",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -2549,7 +2565,7 @@
    "category": "",
    "posted": "2026-11-03",
    "deadline": "2026-11-11",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2630,7 +2646,7 @@
    "category": "",
    "posted": "2026-11-03",
    "deadline": "2026-11-11",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -2808,7 +2824,7 @@
    "category": "",
    "posted": "2026-11-02",
    "deadline": "2026-11-16",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2873,7 +2889,7 @@
    "category": "",
    "posted": "2026-11-02",
    "deadline": "2026-11-15",
-   "status": "D-4",
+   "status": "D-3",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -3212,23 +3228,6 @@
    "deadline": "2026-11-11",
    "status": "",
    "employment": "기타",
-   "is_target": false
-  },
-  {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54892",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "울산광역시 남구 지방임기제공무원 임용시험 시행계획 공고(2027년 1분기...",
-   "org": "울산 남구 총무과",
-   "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2026-10-30",
-   "deadline": "",
-   "status": "",
-   "employment": "공무원(임기제·개방형)",
    "is_target": false
   },
   {
@@ -4175,7 +4174,7 @@
    "category": "",
    "posted": "2026-10-22",
    "deadline": "2026-11-11",
-   "status": "D-DAY",
+   "status": "마감",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -6887,23 +6886,6 @@
    "is_target": true
   },
   {
-   "id": "uou:경영공공정책대학 경영경제융합학부 경제학트랙 교학조교(행정)|2026-10-02",
-   "source": "울산대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://recruit.ulsan.ac.kr/",
-   "link_is_board": true,
-   "title": "경영공공정책대학 경영경제융합학부 경제학트랙 교학조교(행정)",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-10-02",
-   "deadline": "2026-10-11",
-   "status": "마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "junggu:726494",
    "source": "울산 중구 채용공고",
    "source_kind": "기초자치단체",
@@ -7576,6 +7558,23 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "uou:글로벌인문학부 중국어중국학트랙 교학조교(행정)|2026-09-29",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "글로벌인문학부 중국어중국학트랙 교학조교(행정)",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-09-29",
+   "deadline": "2026-10-11",
+   "status": "마감",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "useonline:2737",
