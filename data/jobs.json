@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12 07:27",
+ "generated_at": "2026-11-12 12:33",
  "days": 60,
  "cutoff": "2026-09-13",
- "count": 610,
+ "count": 621,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 97,
-   "kept": 97,
+   "fetched": 98,
+   "kept": 98,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -15,7 +15,7 @@
   {
    "source": "나라일터",
    "fetched": 68,
-   "kept": 28,
+   "kept": 29,
    "dropped_result_notice": 8,
    "note": "국가·지자체·공공기관",
    "error": ""
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 67,
-   "kept": 47,
+   "fetched": 69,
+   "kept": 49,
    "dropped_result_notice": 18,
    "note": "고시공고",
    "error": ""
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 250,
-   "kept": 235,
+   "kept": 238,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -103,15 +103,15 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 120,
-   "kept": 108,
+   "kept": 110,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
   },
   {
    "source": "춘해보건대학교",
-   "fetched": 48,
-   "kept": 48,
+   "fetched": 56,
+   "kept": 56,
    "dropped_result_notice": 0,
    "note": "공지사항 중 채용글",
    "error": ""
@@ -135,13 +135,45 @@
   {
    "source": "UNIST",
    "fetched": 108,
-   "kept": 14,
+   "kept": 15,
    "dropped_result_notice": 50,
    "note": "채용공고",
    "error": ""
   }
  ],
  "jobs": [
+  {
+   "id": "ulsan:2026-2124",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47616.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "제안서 평가위원 후보자 모집 공고(2027년 유튜브 콘텐츠 제작 용역)",
+   "org": "울산광역시 공보담당관",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-12",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "ulsan:2026-2120",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47612.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "울산컵 세척·운반 서비스 용역 제안서 평가위원 후보자 모집 공고",
+   "org": "울산광역시 환경국 자원순환과",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-12",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
   {
    "id": "uou:울산대학교 산학협력단 연구기획팀 계약직원 신규채용|2026-11-12",
    "source": "울산대학교",
@@ -193,6 +225,102 @@
    "is_target": false
   },
   {
+   "id": "useonline:2822",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2822",
+   "title": "덕신초 기간제 교원 채용공고(한국어)",
+   "org": "덕신초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 울주군",
+   "category": "기간제교사",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-17",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "alio:306944",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306944",
+   "title": "[제2026-122호]2026년도 제6차 울산광역시장애아동·발달장애인지원센터(울산개인별지원1팀) 기간제 계약직(장애인 제한) 채용 공고",
+   "org": "한국장애인개발원",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "비정규직",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-27",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "gojobs:308228",
+   "source": "나라일터",
+   "source_kind": "국가·지자체·공공기관",
+   "url": "https://gojobs.go.kr/apmView.do?empmnsn=308228&menuNo=401",
+   "title": "[제2026-122호]2026년도 제6차 울산광역시장애아동·발달장애인지원센터(울산개인별지원1팀) 기간제 계약직(장애인 제한) 채용 공고",
+   "org": "한국장애인개발원",
+   "org_type": "공공기관·지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-27",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2823",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2823",
+   "title": "[긴급] 울산과학고등학교 교육공무직 대체인력(사감) 채용 공고",
+   "org": "울산과학고등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 울주군",
+   "category": "교육공무직 대체인력",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-18",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
+   "id": "chunhae:5907",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5907&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NjcmbGV0dGVyX25vPTU5MDcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[기획처] 조교 채용 공고(평생교육원)(~11/18)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-18",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "unist:311640",
+   "source": "UNIST",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=311640&article.offset=0&articleLimit=10",
+   "title": "UNIST 학부대학 교학팀 행정 연구원(계약직) 채용 공고",
+   "org": "울산과학기술원(UNIST)",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-12",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulju:68227",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -207,6 +335,54 @@
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
+  },
+  {
+   "id": "use2249:20261112110208674",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261112110208674",
+   "title": "2026학년도 온양초등학교 늘봄학교 자원봉사자 모집 공고",
+   "org": "온양초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-17",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "use2249:20261112084426978",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261112084426978",
+   "title": "2026년 겨울방학 중 한시적기간제근로자 채용 공고",
+   "org": "꽃바위유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-12",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261112103341233",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261112103341233",
+   "title": "2026. 동천초등학교병설유치원 겨울방학 중 한시적 기간제 근로자 채용 공고",
+   "org": "동천초등학교병설유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-12",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "uou:울산대학교 글로컬대학추진단 계약직원 채용 공고|2026-11-11",
@@ -405,10 +581,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5904",
+   "id": "chunhae:5905",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5904&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NTgmbGV0dGVyX25vPTU5MDUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5905&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NTgmbGV0dGVyX25vPTU5MDcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(글로벌비즈니스과)(~11/18)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -841,10 +1017,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5903",
+   "id": "chunhae:5904",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5903&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NTYmbGV0dGVyX25vPTU5MDUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5904&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NTYmbGV0dGVyX25vPTU5MDcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[산학협력단] 앵커사업단 연구원 채용(~11/16)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1633,10 +1809,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5898",
+   "id": "chunhae:5899",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5898&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MzImbGV0dGVyX25vPTU5MDUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5899&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MzImbGV0dGVyX25vPTU5MDcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(글로벌케어과)(~11/13)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1649,10 +1825,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5897",
+   "id": "chunhae:5898",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5897&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MzEmbGV0dGVyX25vPTU5MDUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5898&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MzEmbGV0dGVyX25vPTU5MDcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(간호학과)(~11/13)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2651,10 +2827,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5896",
+   "id": "chunhae:5897",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5896&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MDEmbGV0dGVyX25vPTU5MDUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5897&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MDEmbGV0dGVyX25vPTU5MDcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[학생처] 2026년도 통영시 저소득층 대학생 장학금 지원대상자 선발 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2942,10 +3118,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5895",
+   "id": "chunhae:5896",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5895&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM4OTkmbGV0dGVyX25vPTU5MDUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5896&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM4OTkmbGV0dGVyX25vPTU5MDcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 직원(일반행정직) 채용 공고(~11/16)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -6649,7 +6825,7 @@
    "id": "unist:307935",
    "source": "UNIST",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307935&article.offset=20&articleLimit=10",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307935&article.offset=30&articleLimit=10",
    "title": "대외협력처 국제협력팀 육아휴직 대체 인력(계약직) 채용 공고",
    "org": "울산과학기술원(UNIST)",
    "org_type": "대학·연구기관",
@@ -8957,7 +9133,7 @@
    "id": "unist:307561",
    "source": "UNIST",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307561&article.offset=30&articleLimit=10",
+   "url": "https://www.unist.ac.kr/unist/etc/notification/employment.do?mode=view&articleNo=307561&article.offset=40&articleLimit=10",
    "title": "UNIST 행정처 구매팀 계약직 채용 공고",
    "org": "울산과학기술원(UNIST)",
    "org_type": "대학·연구기관",
