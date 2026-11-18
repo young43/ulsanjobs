@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-18 03:58",
+ "generated_at": "2026-11-18 10:32",
  "days": 60,
  "cutoff": "2026-09-19",
- "count": 616,
+ "count": 621,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 82,
-   "kept": 82,
+   "fetched": 83,
+   "kept": 83,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 75,
-   "kept": 59,
+   "fetched": 77,
+   "kept": 60,
    "dropped_result_notice": 15,
    "note": "고시공고",
    "error": ""
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 250,
-   "kept": 236,
+   "kept": 240,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -110,8 +110,8 @@
   },
   {
    "source": "춘해보건대학교",
-   "fetched": 56,
-   "kept": 56,
+   "fetched": 48,
+   "kept": 48,
    "dropped_result_notice": 0,
    "note": "공지사항 중 채용글",
    "error": ""
@@ -142,6 +142,86 @@
   }
  ],
  "jobs": [
+  {
+   "id": "alio:307171",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=307171",
+   "title": "한국폴리텍대학 지역대학장(서울강서, 화성, 충주, 울산) 공개초빙 공고",
+   "org": "학교법인한국폴리텍",
+   "org_type": "공공기관",
+   "location": "서울 외 3",
+   "category": "정규직",
+   "posted": "2026-11-18",
+   "deadline": "2026-11-25",
+   "status": "진행중",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "ulsan:2026-2166",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47664.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "울산광역시 상수도사업본부 회야정수사업소 환경미화 기간제근로자 채용 공고",
+   "org": "울산광역시 상수도사업본부 회야정수사업소",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-18",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261118092949070",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261118092949070",
+   "title": "신정초병설유치원 겨울 및 학년말 방학 방과후과정 한시적 기간제 근로자 채용(2차)",
+   "org": "신정초등학교병설유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-18",
+   "deadline": "2026-11-18",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261118085825483",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261118085825483",
+   "title": "강동유치원 겨울 및 학년말방학 중 방과후과정 한시적기간제근로자 채용 공고(2차)",
+   "org": "강동유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-18",
+   "deadline": "2026-11-25",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261118090332141",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261118090332141",
+   "title": "2027학년도 동백초등학교 초등방과후(늘봄학교) 오케스트라 및 합창 강사 모집 공고",
+   "org": "동백초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "방과후강사(관련)",
+   "posted": "2026-11-18",
+   "deadline": "2026-11-18",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
   {
    "id": "eminwon:eminwon.ulsannamgu.go.kr:55072",
    "source": "울산 남구 채용공고",
@@ -208,6 +288,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "use2249:20261118100835482",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261118100835482",
+   "title": "2026학년도 고헌유치원 특수방과후과정 계약제교원(시간강사) 채용 공고(2차)",
+   "org": "고헌유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-18",
+   "deadline": "2026-11-23",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
   },
   {
    "id": "ulju:68385",
@@ -796,10 +892,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5913",
+   "id": "chunhae:5914",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5913&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5OTQmbGV0dGVyX25vPTU5MTUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5914&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5OTQmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[산학협력단] 전문대학 혁신지원사업(국제교류처) 연구원 채용공고(~11/22)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -809,22 +905,6 @@
    "deadline": "2026-11-22",
    "status": "",
    "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
-   "id": "chunhae:5896",
-   "source": "춘해보건대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5896&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTQwMDAmbGV0dGVyX25vPTU5MTUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
-   "title": "[사회공헌센터] 2026학년도 CH수어교육 프로그램 참여자 모집 안내",
-   "org": "춘해보건대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-11-16",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
    "is_target": false
   },
   {
@@ -1245,10 +1325,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5911",
+   "id": "chunhae:5912",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5911&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5OTAmbGV0dGVyX25vPTU5MTUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5912&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5OTAmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(글로벌케어과)(~11/18)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1261,10 +1341,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5910",
+   "id": "chunhae:5911",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5910&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5ODkmbGV0dGVyX25vPTU5MTUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5911&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5ODkmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(간호학과)(~11/18)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -1697,10 +1777,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5908",
+   "id": "chunhae:5909",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5908&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NjcmbGV0dGVyX25vPTU5MTUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5909&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NjcmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(평생교육원)(~11/18)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -2006,10 +2086,10 @@
    "is_target": true
   },
   {
-   "id": "chunhae:5906",
+   "id": "chunhae:5907",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5906&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NTgmbGV0dGVyX25vPTU5MTUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5907&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5NTgmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[기획처] 조교 채용 공고(글로벌비즈니스과)(~11/18)",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
@@ -3956,10 +4036,10 @@
    "is_target": false
   },
   {
-   "id": "chunhae:5904",
+   "id": "chunhae:5905",
    "source": "춘해보건대학교",
    "source_kind": "대학 자체 채용",
-   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5904&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MDEmbGV0dGVyX25vPTU5MTUmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5905&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MDEmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
    "title": "[학생처] 2026년도 통영시 저소득층 대학생 장학금 지원대상자 선발 안내",
    "org": "춘해보건대학교",
    "org_type": "대학·연구기관",
