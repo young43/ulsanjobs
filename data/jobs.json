@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-18 18:36",
+ "generated_at": "2026-11-19 03:35",
  "days": 60,
- "cutoff": "2026-09-19",
- "count": 634,
+ "cutoff": "2026-09-20",
+ "count": 638,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 83,
-   "kept": 83,
+   "fetched": 84,
+   "kept": 84,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -54,16 +54,16 @@
   },
   {
    "source": "울산 남구",
-   "fetched": 10,
-   "kept": 6,
+   "fetched": 9,
+   "kept": 5,
    "dropped_result_notice": 2,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
   {
    "source": "울산 동구",
-   "fetched": 10,
-   "kept": 10,
+   "fetched": 9,
+   "kept": 9,
    "dropped_result_notice": 0,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
@@ -110,11 +110,11 @@
   },
   {
    "source": "춘해보건대학교",
-   "fetched": 0,
-   "kept": 0,
+   "fetched": 40,
+   "kept": 40,
    "dropped_result_notice": 0,
-   "note": "",
-   "error": "ReadTimeout: HTTPSConnectionPool(host='www.ch.ac.kr', port=443): Read timed out. (read timeout=30)"
+   "note": "공지사항 중 채용글",
+   "error": ""
   },
   {
    "source": "울산과학대학교",
@@ -142,6 +142,54 @@
   }
  ],
  "jobs": [
+  {
+   "id": "ulju:68326",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68326&mId=0403030100",
+   "title": "2027년 상반기 국가유산관리인 기간제 근로자 채용공고",
+   "org": "울주군 문화도서관과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2883호",
+   "posted": "2026-11-19",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulju:68392",
+   "source": "울주군 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68392&mId=0403030100",
+   "title": "2027년 겨울방학 대학생 아르바이트 참여자 모집 공고",
+   "org": "울주군 일자리지원과",
+   "org_type": "지자체",
+   "location": "울산 울주군",
+   "category": "울산광역시 울주군 공고 제2026-2926호",
+   "posted": "2026-11-19",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "alio:307115",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=307115",
+   "title": "2026년 제5차 한국교통안전공단 울산본부 기간제근로자 채용공고",
+   "org": "한국교통안전공단",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "청년인턴(체험형)",
+   "posted": "2026-11-19",
+   "deadline": "2026-12-04",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
   {
    "id": "ulju:68401",
    "source": "울주군 채용공고",
@@ -687,7 +735,7 @@
    "category": "",
    "posted": "2026-11-17",
    "deadline": "2026-11-19",
-   "status": "D-1",
+   "status": "D-DAY",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -752,7 +800,7 @@
    "category": "",
    "posted": "2026-11-17",
    "deadline": "2026-11-27",
-   "status": "D-9",
+   "status": "D-8",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1094,7 +1142,7 @@
    "category": "",
    "posted": "2026-11-16",
    "deadline": "2026-11-20",
-   "status": "D-2",
+   "status": "D-1",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -1189,6 +1237,38 @@
    "org": "울산 북구 경제일자리과",
    "org_type": "지자체",
    "location": "울산 북구",
+   "category": "",
+   "posted": "2026-11-16",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "chunhae:5914",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5914&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5OTQmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[산학협력단] 전문대학 혁신지원사업(국제교류처) 연구원 채용공고(~11/22)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-16",
+   "deadline": "2026-11-22",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "chunhae:5901",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5901&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTQwMDAmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[사회공헌센터] 2026학년도 CH수어교육 프로그램 참여자 모집 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
    "category": "",
    "posted": "2026-11-16",
    "deadline": "",
@@ -1614,6 +1694,38 @@
    "is_target": true
   },
   {
+   "id": "chunhae:5900",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5900&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5OTAmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[기획처] 조교 채용 공고(글로벌케어과)(~11/18)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-18",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
+   "id": "chunhae:5899",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5899&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5ODkmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[기획처] 조교 채용 공고(간호학과)(~11/18)",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-18",
+   "status": "",
+   "employment": "교원·강사·연구직",
+   "is_target": false
+  },
+  {
    "id": "unist:311661",
    "source": "UNIST",
    "source_kind": "대학 자체 채용",
@@ -1900,7 +2012,7 @@
    "category": "",
    "posted": "2026-11-12",
    "deadline": "2026-11-23",
-   "status": "D-5",
+   "status": "D-4",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -1949,25 +2061,9 @@
    "category": "",
    "posted": "2026-11-12",
    "deadline": "2026-11-19",
-   "status": "D-1",
+   "status": "D-DAY",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "ulju:68228",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68228&mId=0403030100",
-   "title": "두동면 주민자치센터 자원봉사자 모집 공고",
-   "org": "울주군 두동면",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 두동면 공고 제2026-31호",
-   "posted": "2026-11-12",
-   "deadline": "",
-   "status": "",
-   "employment": "기타",
-   "is_target": false
   },
   {
    "id": "useonline:2822",
@@ -2050,22 +2146,6 @@
    "is_target": true
   },
   {
-   "id": "ulju:68227",
-   "source": "울주군 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulju.ulsan.kr/ulju/unit/employ/view.do?notAncmtMgtNo=68227&mId=0403030100",
-   "title": "2027년 두동면 주민자치센터 강사 모집 공고",
-   "org": "울주군 두동면",
-   "org_type": "지자체",
-   "location": "울산 울주군",
-   "category": "울산광역시 울주군 두동면 공고 제2026-30호",
-   "posted": "2026-11-12",
-   "deadline": "",
-   "status": "",
-   "employment": "교원·강사·연구직",
-   "is_target": false
-  },
-  {
    "id": "eminwon:eminwon.bukgu.ulsan.kr:45436",
    "source": "울산 북구 채용공고",
    "source_kind": "기초자치단체",
@@ -2143,7 +2223,7 @@
    "category": "",
    "posted": "2026-11-11",
    "deadline": "2026-11-20",
-   "status": "D-2",
+   "status": "D-1",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2552,23 +2632,6 @@
    "is_target": true
   },
   {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45408",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "주정차 민원상담 및 과태료 체납 징수요원 기간제 근로자 채용",
-   "org": "울산 북구 교통행정과",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-10",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
    "id": "use2249:20261110100152671",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -2596,6 +2659,23 @@
    "category": "",
    "posted": "2026-11-10",
    "deadline": "2026-11-20",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
+   "id": "eminwon:eminwon.bukgu.ulsan.kr:45403",
+   "source": "울산 북구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
+   "link_is_board": true,
+   "title": "울산광역시 북구 임기제공무원 임용시험 시행계획 공고(주민자치, 쇠부리캐릭...",
+   "org": "울산 북구 총무과",
+   "org_type": "지자체",
+   "location": "울산 북구",
+   "category": "",
+   "posted": "2026-11-10",
+   "deadline": "",
    "status": "",
    "employment": "공무원(임기제·개방형)",
    "is_target": false
@@ -2645,7 +2725,7 @@
    "category": "",
    "posted": "2026-11-10",
    "deadline": "2026-11-19",
-   "status": "D-1",
+   "status": "D-DAY",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -2935,7 +3015,7 @@
    "category": "",
    "posted": "2026-11-09",
    "deadline": "2026-11-19",
-   "status": "D-1",
+   "status": "D-DAY",
    "employment": "교원·강사·연구직",
    "is_target": false
   },
@@ -3256,23 +3336,6 @@
    "posted": "2026-11-06",
    "deadline": "2026-11-20",
    "status": "진행중",
-   "employment": "기간제·계약직",
-   "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.ulsannamgu.go.kr:54955",
-   "source": "울산 남구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.ulsannamgu.go.kr/cop/bbs/selectSaeolHireList.do",
-   "link_is_board": true,
-   "title": "취득세 및 등록면허세 업무보조 기간제근로자 채용 공고",
-   "org": "울산 남구 세무1과",
-   "org_type": "지자체",
-   "location": "울산 남구",
-   "category": "",
-   "posted": "2026-11-06",
-   "deadline": "",
-   "status": "",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -3964,7 +4027,7 @@
    "category": "",
    "posted": "2026-11-04",
    "deadline": "2026-11-19",
-   "status": "D-1",
+   "status": "D-DAY",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -3980,7 +4043,7 @@
    "category": "비정규직",
    "posted": "2026-11-04",
    "deadline": "2026-11-18",
-   "status": "진행중",
+   "status": "마감",
    "employment": "기간제·계약직",
    "is_target": true
   },
@@ -4261,6 +4324,22 @@
    "is_target": false
   },
   {
+   "id": "chunhae:5909",
+   "source": "춘해보건대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://www.ch.ac.kr/board/board.php?site_id=main&TREE_NO=16087&DEPTH=2&bbs=see&letter_no=5909&data=c2l0ZV9pZD1tYWluJnBhZ2VjbnQ9MCZpZHg9MTM5MDEmbGV0dGVyX25vPTU5MTcmb2Zmc2V0PTAmQm9hcmRrZXk9MjYxMCZTdWJfTm89MCZEQlRhYmxlPWJic19tYWlu||",
+   "title": "[학생처] 2026년도 통영시 저소득층 대학생 장학금 지원대상자 선발 안내",
+   "org": "춘해보건대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-03",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "ulsan:2026-2045",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -4352,7 +4431,7 @@
    "category": "무기계약직",
    "posted": "2026-11-03",
    "deadline": "2026-11-18",
-   "status": "진행중",
+   "status": "마감",
    "employment": "무기계약직",
    "is_target": true
   },
@@ -4709,23 +4788,6 @@
    "status": "마감",
    "employment": "무기계약직",
    "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.donggu.ulsan.kr:28590",
-   "source": "울산 동구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.donggu.ulsan.kr/donggu/contents/contents.do?mId=4040201",
-   "link_is_board": true,
-   "title": "2026년도 제8회 울산광역시 동구 지방임기제공무원 채용시험 시행계획 공...",
-   "org": "울산 동구 총무과",
-   "org_type": "지자체",
-   "location": "울산 동구",
-   "category": "",
-   "posted": "2026-11-02",
-   "deadline": "",
-   "status": "",
-   "employment": "공무원(임기제·개방형)",
-   "is_target": false
   },
   {
    "id": "use2249:20261030160107301",
