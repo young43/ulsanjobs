@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-26 06:00",
+ "generated_at": "2026-11-26 12:24",
  "days": 60,
  "cutoff": "2026-09-27",
- "count": 695,
+ "count": 702,
  "sources": [
   {
    "source": "잡알리오",
-   "fetched": 87,
-   "kept": 87,
+   "fetched": 89,
+   "kept": 89,
    "dropped_result_notice": 0,
    "note": "중앙 공공기관",
    "error": ""
@@ -38,8 +38,8 @@
   },
   {
    "source": "울산광역시",
-   "fetched": 90,
-   "kept": 76,
+   "fetched": 91,
+   "kept": 77,
    "dropped_result_notice": 12,
    "note": "고시공고",
    "error": ""
@@ -71,8 +71,8 @@
   {
    "source": "울산 북구",
    "fetched": 10,
-   "kept": 8,
-   "dropped_result_notice": 2,
+   "kept": 7,
+   "dropped_result_notice": 3,
    "note": "새올 채용공고(링크는 게시판)",
    "error": ""
   },
@@ -95,7 +95,7 @@
   {
    "source": "울산교육청 일반채용",
    "fetched": 300,
-   "kept": 281,
+   "kept": 284,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -103,7 +103,7 @@
   {
    "source": "울산교육청 온라인채용",
    "fetched": 120,
-   "kept": 106,
+   "kept": 108,
    "dropped_result_notice": 0,
    "note": "",
    "error": ""
@@ -211,6 +211,102 @@
    "is_target": false
   },
   {
+   "id": "alio:307464",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=307464",
+   "title": "한전KPS(주)부산경남전력지사 울산지점 단기노무원(설비안전 관리보조)모집",
+   "org": "한전KPS(주)",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "비정규직",
+   "posted": "2026-11-26",
+   "deadline": "2026-12-11",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "alio:307465",
+   "source": "잡알리오",
+   "source_kind": "중앙 공공기관",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=307465",
+   "title": "한전KPS(주)부산경남전력지사 울산지점 단기노무원(사무보조)모집",
+   "org": "한전KPS(주)",
+   "org_type": "공공기관",
+   "location": "울산",
+   "category": "비정규직",
+   "posted": "2026-11-26",
+   "deadline": "2026-12-11",
+   "status": "진행중",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2842",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2842",
+   "title": "명정초등학교 교육공무직(행정실무사) 대체인력 채용 공고 안내",
+   "org": "명정초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 중구",
+   "category": "교육공무직 대체인력",
+   "posted": "2026-11-26",
+   "deadline": "2026-12-03",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
+   "id": "useonline:2841",
+   "source": "울산교육청 온라인채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2841",
+   "title": "농소초 과학교과전담 기간제교사 채용 공고",
+   "org": "농소초등학교",
+   "org_type": "교육청·학교",
+   "location": "울산 북구",
+   "category": "기간제교사",
+   "posted": "2026-11-26",
+   "deadline": "2026-11-30",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "use2249:20261126110326520",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261126110326520",
+   "title": "내황유치원 겨울방학 및 학년말방학 중 한시적근로자 채용 공고(3차)",
+   "org": "내황유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-26",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "ulsan:2026-2255",
+   "source": "울산광역시 고시공고",
+   "source_kind": "광역자치단체",
+   "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/47768.ulsan?mId=001004002000000000&gosiGbn=A",
+   "title": "2027년 시정소식지 제안서 평가위원 후보자 모집 공고",
+   "org": "울산광역시 공보담당관",
+   "org_type": "지자체",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-26",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "ulju:68525",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -277,6 +373,22 @@
    "is_target": true
   },
   {
+   "id": "use2249:20261126101336326",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261126101336326",
+   "title": "2026학년도 복산초등학교병설유치원 겨울방학 중 방과후과정 한시적 기간제 근로자 채용 공고...",
+   "org": "복산초병설유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-26",
+   "deadline": "2026-12-02",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "gojobs:309006",
    "source": "나라일터",
    "source_kind": "국가·지자체·공공기관",
@@ -291,6 +403,22 @@
    "status": "",
    "employment": "공무원(임기제·개방형)",
    "is_target": false
+  },
+  {
+   "id": "use2249:20261126110229794",
+   "source": "울산교육청 일반채용",
+   "source_kind": "교육청·학교",
+   "url": "https://use.go.kr/job/user/bbs/BD_selectBbs.do?q_bbsSn=2249&q_bbsDocNo=20261126110229794",
+   "title": "2026. 옥서초등학교병설유치원 학년말방학 중 방과후과정 한시적 기간제 근로자 모집 공고",
+   "org": "옥서초등학교병설유치원",
+   "org_type": "교육청·학교",
+   "location": "울산",
+   "category": "기타",
+   "posted": "2026-11-26",
+   "deadline": "2026-12-08",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "use2249:20261125131028927",
@@ -355,6 +483,23 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "uou:울산대학교 의과대학 예방의학교실 1년차 전공의 모집|2026-11-25",
+   "source": "울산대학교",
+   "source_kind": "대학 자체 채용",
+   "url": "https://recruit.ulsan.ac.kr/",
+   "link_is_board": true,
+   "title": "울산대학교 의과대학 예방의학교실 1년차 전공의 모집",
+   "org": "울산대학교",
+   "org_type": "대학·연구기관",
+   "location": "울산",
+   "category": "",
+   "posted": "2026-11-25",
+   "deadline": "2026-12-04",
+   "status": "D-8",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "use2249:20261125161714183",
@@ -1088,7 +1233,7 @@
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
    "url": "https://use.go.kr/job/user/jobpost/BD_selectJobPost.do?q_jobPostSn=2838",
-   "title": "2026학년도 제1차 기간제교원(교과전담) 채용 공고",
+   "title": "2026학년도 울산초등학교 제1차 기간제교원(교과전담) 채용 공고",
    "org": "울산초등학교",
    "org_type": "교육청·학교",
    "location": "울산 중구",
@@ -1452,23 +1597,6 @@
    "deadline": "2026-12-01",
    "status": "진행중",
    "employment": "무기계약직",
-   "is_target": true
-  },
-  {
-   "id": "eminwon:eminwon.bukgu.ulsan.kr:45492",
-   "source": "울산 북구 채용공고",
-   "source_kind": "기초자치단체",
-   "url": "https://www.bukgu.ulsan.kr/lay1/S1T92C460/contents.do",
-   "link_is_board": true,
-   "title": "2027년 하천관리단 기간제 근로자 채용공고",
-   "org": "울산 북구 건설과",
-   "org_type": "지자체",
-   "location": "울산 북구",
-   "category": "",
-   "posted": "2026-11-23",
-   "deadline": "",
-   "status": "",
-   "employment": "기간제·계약직",
    "is_target": true
   },
   {
@@ -6100,23 +6228,6 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
-  },
-  {
-   "id": "uou:건축·도시환경학부 건축학트랙 교학조교(행정)|2026-11-03",
-   "source": "울산대학교",
-   "source_kind": "대학 자체 채용",
-   "url": "https://recruit.ulsan.ac.kr/",
-   "link_is_board": true,
-   "title": "건축·도시환경학부 건축학트랙 교학조교(행정)",
-   "org": "울산대학교",
-   "org_type": "대학·연구기관",
-   "location": "울산",
-   "category": "",
-   "posted": "2026-11-03",
-   "deadline": "2026-11-11",
-   "status": "마감",
-   "employment": "교원·강사·연구직",
-   "is_target": false
   },
   {
    "id": "ulsan:2026-2045",
