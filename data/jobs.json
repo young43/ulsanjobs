@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28 08:09",
+ "generated_at": "2026-11-28 14:46",
  "days": 60,
  "cutoff": "2026-09-29",
- "count": 671,
+ "count": 705,
  "sources": [
   {
    "source": "잡알리오",
@@ -46,11 +46,11 @@
   },
   {
    "source": "울산 중구",
-   "fetched": 0,
-   "kept": 0,
-   "dropped_result_notice": 0,
-   "note": "",
-   "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   "fetched": 195,
+   "kept": 76,
+   "dropped_result_notice": 9,
+   "note": "채용공고",
+   "error": ""
   },
   {
    "source": "울산 남구",
@@ -292,6 +292,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:728243",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=728243",
+   "title": "​2027년 상반기 여권사무 업무보조 기간제 근로자 채용 공고",
+   "org": "울산 중구 자치행정과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-27",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20261127081801488",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -439,6 +455,22 @@
    "is_target": false
   },
   {
+   "id": "junggu:728237",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=728237",
+   "title": "2027년 상반기 체육시설물 관리 기간제근로자 채용공고",
+   "org": "울산 중구 교육체육과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-27",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulju:68617",
    "source": "울주군 채용공고",
    "source_kind": "기초자치단체",
@@ -497,6 +529,22 @@
    "org_type": "지자체",
    "location": "울산 울주군",
    "category": "울산광역시 울주군 보건소 남부통합보건지소 공고 제2026-16호",
+   "posted": "2026-11-27",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:728281",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=728281",
+   "title": "2027년 공원녹지과 기간제근로자 채용 공고",
+   "org": "울산 중구 공원녹지과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
    "posted": "2026-11-27",
    "deadline": "",
    "status": "",
@@ -1344,6 +1392,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:728146",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=728146",
+   "title": "2027년 상반기 청사 민원 안내 기간제 근로자 채용 공고",
+   "org": "울산 중구 총무과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-25",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulsan:2026-9",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -1729,6 +1793,38 @@
    "status": "",
    "employment": "교원·강사·연구직",
    "is_target": false
+  },
+  {
+   "id": "junggu:728118",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=728118",
+   "title": "2027년 상반기 울산큰애기 청년야시장 기간제근로자 채용 공고",
+   "org": "울산 중구 전통시장과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-24",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:728081",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=728081",
+   "title": "2027년 상반기 울산종갓집도서관 기간제 근로자 공개채용 재공고",
+   "org": "울산 중구 구립도서관",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-24",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "eminwon:eminwon.donggu.ulsan.kr:28734",
@@ -2247,6 +2343,22 @@
    "is_target": false
   },
   {
+   "id": "junggu:728014",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=728014",
+   "title": "2026년 울산광역시 중구 환경공무직 채용시험 공고",
+   "org": "울산 중구 환경미화과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-23",
+   "deadline": "",
+   "status": "",
+   "employment": "공무직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20261123102303298",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -2567,6 +2679,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:727943",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=727943",
+   "title": "2027년 상반기 중구평생학습관 기간제근로자 채용 공고",
+   "org": "울산 중구 교육체육과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-20",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulsan:2026-6",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -2808,6 +2936,22 @@
    "is_target": false
   },
   {
+   "id": "junggu:727907",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727907",
+   "title": "2027년 상반기 긴급도로복구 기간제근로자 채용",
+   "org": "울산 중구 건설과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-19",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "alio:307115",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -2822,6 +2966,22 @@
    "status": "진행중",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "junggu:727905",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727905",
+   "title": "2026년 제4회 울산광역시중구의회 임기제공무원(정책지원관) 임..",
+   "org": "울산 중구 의회사무국",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-19",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
   },
   {
    "id": "use2249:20261119173352660",
@@ -3129,6 +3289,38 @@
    "is_target": false
   },
   {
+   "id": "junggu:727881",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=1&dataSid=727881",
+   "title": "2027년 상반기 울산 중구 관광안내소(울산큰애기집, 이팔청춘사..",
+   "org": "울산 중구 문화관광과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-18",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "junggu:727882",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727882",
+   "title": "2027년 상반기 어련당 기간제근로자 채용 공고",
+   "org": "울산 중구 문화관광과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-18",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "useonline:2833",
    "source": "울산교육청 온라인채용",
    "source_kind": "교육청·학교",
@@ -3402,6 +3594,54 @@
    "status": "진행중",
    "employment": "정규직",
    "is_target": false
+  },
+  {
+   "id": "junggu:727831",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727831",
+   "title": "2027년 상반기 어린이역사과학체험관 기간제 근로자 채용 공고",
+   "org": "울산 중구 문화관광과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-17",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:727828",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727828",
+   "title": "2027년 상반기 고복수 음악관 기간제근로자 채용 공고",
+   "org": "울산 중구 문화관광과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-17",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:727833",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727833",
+   "title": "2027 상반기 중구생활문화센터 기간제 근로자 채용 공고",
+   "org": "울산 중구 문화관광과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-17",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "use2249:20261117110820144",
@@ -3678,6 +3918,38 @@
    "is_target": false
   },
   {
+   "id": "junggu:727794",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727794",
+   "title": "2027년 아동복지교사(기간제 근로자) 채용 공고",
+   "org": "울산 중구 가족복지과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-16",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:727820",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727820",
+   "title": "2027년 상반기 외솔기념관 기간제근로자 채용 공고",
+   "org": "울산 중구 문화관광과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-16",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulsan:2026-2151",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -3902,6 +4174,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:727754",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727754",
+   "title": "중구도시관리공단 2026년 제10회 기간제근로자 공개채용 공고",
+   "org": "울산 중구 기획예산실",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-13",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20261113085151135",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -3998,6 +4286,22 @@
    "is_target": false
   },
   {
+   "id": "junggu:727753",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727753",
+   "title": "2027년 통합돌봄 방문의료지원사업 기간제근로자 채용 공고",
+   "org": "울산 중구 노인장애인과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-13",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "ulsan:2026-2113",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -4054,6 +4358,22 @@
    "org": "울산광역시 수목원관리사무소",
    "org_type": "지자체",
    "location": "울산",
+   "category": "",
+   "posted": "2026-11-13",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:727765",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=2&dataSid=727765",
+   "title": "2027년 상반기 국가유산 시설관리 기간제근로자 채용 공고",
+   "org": "울산 중구 문화관광과",
+   "org_type": "지자체",
+   "location": "울산 중구",
    "category": "",
    "posted": "2026-11-13",
    "deadline": "",
@@ -4561,6 +4881,38 @@
    "is_target": true
   },
   {
+   "id": "junggu:727692",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727692",
+   "title": "2027년 상반기 울산종갓집도서관 기간제 근로자 공개채용 공고",
+   "org": "울산 중구 구립도서관",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-11",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:727693",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727693",
+   "title": "2027년 상반기 공립도서관 기간제 근로자 공개채용 공고",
+   "org": "울산 중구 구립도서관",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-11",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20261111093549612",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -5010,6 +5362,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:727616",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727616",
+   "title": "울산광역시 중구 자전거사업 위탁운영자 모집 공고",
+   "org": "울산 중구 건설과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-09",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "uou:에너지화학공학부 에너지분자공학트랙 교학조교(실험)|2026-11-09",
    "source": "울산대학교",
    "source_kind": "대학 자체 채용",
@@ -5235,6 +5603,38 @@
    "is_target": true
   },
   {
+   "id": "junggu:727635",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727635",
+   "title": "2026년 4차 불법 노상적치물 및 노점 단속 지원 기간제근로자..",
+   "org": "울산 중구 건설과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-09",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:727583",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727583",
+   "title": "2026년 12월 불법투기 쓰레기 수거 기간제 근로자 채용공고",
+   "org": "울산 중구 환경미화과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-09",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "use2249:20261109110354958",
    "source": "울산교육청 일반채용",
    "source_kind": "교육청·학교",
@@ -5378,6 +5778,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "junggu:727561",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727561",
+   "title": "2027년 장애인일자리사업 참여자 모집 공고",
+   "org": "울산 중구 노인장애인과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-11-06",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
   },
   {
    "id": "use2249:20261106104239764",
@@ -7290,6 +7706,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:727291",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=3&dataSid=727291",
+   "title": "2026년 연말 폐소형가전, 폐형광등 수거인력 기간제근로자 채용..",
+   "org": "울산 중구 환경미화과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-28",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "alio:307453",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -8667,6 +9099,38 @@
    "is_target": true
   },
   {
+   "id": "junggu:726787",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=726787",
+   "title": "2026년 산불예방 및 진화인력 채용",
+   "org": "울산 중구 공원녹지과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-15",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
+   "id": "junggu:726745",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=726745",
+   "title": "학성새벽시장 배송매니저 모집 공고",
+   "org": "울산 중구 전통시장과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-14",
+   "deadline": "",
+   "status": "",
+   "employment": "기타",
+   "is_target": false
+  },
+  {
    "id": "gojobs:305750",
    "source": "나라일터",
    "source_kind": "국가·지자체·공공기관",
@@ -9148,6 +9612,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:726695",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=726695",
+   "title": "2026년 입화산 자연휴양림 산림휴양관 기간제 근로자 채용",
+   "org": "울산 중구 공원녹지과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-13",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
    "id": "alio:305969",
    "source": "잡알리오",
    "source_kind": "중앙 공공기관",
@@ -9162,6 +9642,22 @@
    "status": "마감",
    "employment": "정규직",
    "is_target": false
+  },
+  {
+   "id": "junggu:726724",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=726724",
+   "title": "2026년 구내식당 조리보조원 기간제 근로자 채용",
+   "org": "울산 중구 총무과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-13",
+   "deadline": "",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
   },
   {
    "id": "gojobs:305516",
@@ -9514,6 +10010,22 @@
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
+  },
+  {
+   "id": "junggu:726667",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=726667",
+   "title": "2026년 울산광역시 중구 보건소장(개방형직위) 임용시험 추가합..",
+   "org": "울산 중구 총무과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-12",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
   },
   {
    "id": "use2249:20261008124632784",
@@ -10093,6 +10605,22 @@
    "is_target": true
   },
   {
+   "id": "junggu:726538",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=726538",
+   "title": "2026년 울산광역시 중구 보건소장(개방형직위) 임용시험 최종합..",
+   "org": "울산 중구 총무과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-06",
+   "deadline": "",
+   "status": "",
+   "employment": "공무원(임기제·개방형)",
+   "is_target": false
+  },
+  {
    "id": "ulsan:2026-1889",
    "source": "울산광역시 고시공고",
    "source_kind": "광역자치단체",
@@ -10216,6 +10744,22 @@
    "category": "기간제교사",
    "posted": "2026-10-02",
    "deadline": "2026-10-02",
+   "status": "",
+   "employment": "기간제·계약직",
+   "is_target": true
+  },
+  {
+   "id": "junggu:726494",
+   "source": "울산 중구 채용공고",
+   "source_kind": "기초자치단체",
+   "url": "https://www.junggu.ulsan.kr/board/view.ulsan?boardId=BBS_0000060&menuCd=DOM_000000102004002000&paging=ok&startPage=4&dataSid=726494",
+   "title": "개별공시지가 기간제근로자 채용 공고",
+   "org": "울산 중구 공간정보과",
+   "org_type": "지자체",
+   "location": "울산 중구",
+   "category": "",
+   "posted": "2026-10-02",
+   "deadline": "",
    "status": "",
    "employment": "기간제·계약직",
    "is_target": true
